@@ -1,0 +1,171 @@
+Customer_Id,Gender,Age,Married,State,Number_of_referrals,Tenure in months,Value deal,Phone service,Multiple_lines,Internet service,Internet type,Online security,Online backup,Device protection plan,Premium support,Streaming TV,Streaming movies,Streaming music,Unlimited data,Contract,Paperless billing,Payment method,Monthly charge,Total charges,Total refunds,Total extra data charges,Total long distance charges,Total revenue,Customer status,Churn category,Churn reason,Customer_Status_Predicted
+CUSTJ0001,Male,32,Yes,Texas,1,32,No,No,No phone service,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Two year,No,Mailed check,54.42,8835.82,156.3,85.54,142.25,8907.31,Joined,,,1
+CUSTJ0002,Female,21,No,Illinois,4,41,No,Yes,No,Yes,DSL,No,No,Yes,Yes,No,Yes,No,Yes,One year,No,Bank transfer,54.09,2226.96,166.75,99.57,111.62,2271.4,Joined,,,1
+CUSTJ0006,Male,18,No,Florida,1,72,No,Yes,No,No,Cable,No,No,No,Yes,Yes,No,No,Yes,One year,No,Electronic check,45.1,2203.87,28.42,106.11,85.36,2366.92,Joined,,,1
+CUSTJ0009,Male,78,Yes,Illinois,1,14,Yes,Yes,No phone service,No,Cable,No,Yes,No,No,Yes,Yes,No,No,One year,No,Bank transfer,93.35,8759.51,31.89,25.89,127.24,8880.75,Joined,,,1
+CUSTJ0010,Female,35,No,California,0,57,No,Yes,No,Yes,Fiber optic,No,Yes,No,No,Yes,No,No,No,Two year,Yes,Credit card,98.42,7271.73,101.02,84.89,192.79,7448.39,Joined,,,1
+CUSTJ0011,Male,49,No,Texas,2,19,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Electronic check,52.37,673.04,176.48,149.14,132.32,778.02,Joined,,,1
+CUSTJ0012,Male,54,No,Illinois,0,70,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,95.1,3735.88,178.05,86.53,289.21,3933.57,Joined,,,1
+CUSTJ0016,Female,73,Yes,California,3,48,No,Yes,No phone service,Yes,Cable,No,No,No,Yes,No,No,No,No,One year,No,Credit card,118.14,2459.74,80.78,139.64,256.2,2774.8,Joined,,,1
+CUSTJ0018,Female,46,Yes,Illinois,2,64,No,Yes,Yes,No,Cable,No,No,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer,101.14,3714.76,79.5,149.75,98.3,3883.31,Joined,,,1
+CUSTJ0019,Male,78,No,Texas,2,13,No,Yes,No,No,DSL,No,No,No,No,No,Yes,Yes,No,Two year,Yes,Electronic check,115.27,4716.19,135.48,98.73,19.4,4698.84,Joined,,,1
+CUSTJ0020,Female,45,Yes,California,0,35,No,No,Yes,Yes,Cable,Yes,No,Yes,No,No,No,No,Yes,One year,No,Mailed check,55.83,8460.2,24.01,30.85,154.11,8621.15,Joined,,,1
+CUSTJ0021,Female,36,Yes,Florida,1,53,Yes,Yes,Yes,No,Cable,Yes,Yes,No,No,Yes,No,No,No,One year,No,Mailed check,119.89,8054.63,6.46,28.73,154.41,8231.31,Joined,,,1
+CUSTJ0022,Male,71,No,New York,5,50,No,Yes,No,No,Cable,No,Yes,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,70.76,8938.57,32.39,101.41,203.93,9211.52,Joined,,,1
+CUSTJ0024,Female,75,No,Illinois,4,53,Yes,No,No phone service,Yes,Cable,Yes,Yes,Yes,No,No,No,No,Yes,Month-to-month,No,Mailed check,42.62,3222.92,80.95,35.73,148.33,3326.03,Joined,,,1
+CUSTJ0025,Male,28,Yes,Texas,2,1,No,No,No,No,DSL,No,Yes,No,Yes,Yes,Yes,No,No,Two year,Yes,Mailed check,119.66,6061.74,158.82,57.57,137.32,6097.81,Joined,,,1
+CUSTJ0028,Male,21,Yes,California,5,6,Yes,Yes,No,Yes,Cable,No,No,No,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,59.89,4768.65,182.59,132.52,152.95,4871.53,Joined,,,1
+CUSTJ0029,Male,61,No,Florida,2,69,No,No,No phone service,No,Cable,No,No,No,No,No,Yes,No,Yes,Two year,No,Bank transfer,79.66,1056.12,25.92,106.43,22.85,1159.48,Joined,,,1
+CUSTJ0038,Female,61,Yes,Florida,4,47,Yes,Yes,Yes,No,DSL,No,No,Yes,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,119.55,5129.84,92.37,139.02,175.93,5352.42,Joined,,,1
+CUSTJ0040,Female,23,No,New York,3,70,Yes,No,No,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,56.56,3925.35,121.53,61.09,110.9,3975.81,Joined,,,1
+CUSTJ0054,Male,42,No,Texas,4,68,Yes,Yes,No phone service,No,Cable,No,No,Yes,No,No,No,No,No,One year,Yes,Mailed check,104.11,7477.66,167.62,66.16,170.76,7546.96,Joined,,,1
+CUSTJ0060,Male,43,No,Illinois,0,29,No,No,No phone service,Yes,Cable,No,No,No,Yes,Yes,Yes,Yes,Yes,One year,No,Electronic check,40.15,746.66,159.3,22.46,59.86,669.68,Joined,,,1
+CUSTJ0064,Male,47,Yes,Florida,0,60,No,No,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,73.52,1138.37,123.27,93.43,80.37,1188.9,Joined,,,1
+CUSTJ0066,Female,40,Yes,New York,1,1,No,Yes,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,99.24,2585.12,41.28,115.07,58.98,2717.89,Joined,,,1
+CUSTJ0070,Male,56,Yes,Illinois,5,3,No,No,No,No,DSL,Yes,No,Yes,Yes,No,Yes,Yes,No,One year,No,Credit card,57.73,2610.66,160.59,141.73,271.56,2863.36,Joined,,,1
+CUSTJ0076,Male,54,Yes,Illinois,3,8,Yes,No,No phone service,Yes,Fiber optic,No,No,Yes,No,No,Yes,No,Yes,Two year,No,Electronic check,73.63,575.17,91.0,115.57,164.11,763.85,Joined,,,1
+CUSTJ0084,Male,35,No,Illinois,0,67,No,Yes,No,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,No,No,Month-to-month,No,Credit card,73.53,6033.24,80.12,105.17,260.42,6318.71,Joined,,,1
+CUSTJ0088,Male,47,Yes,Illinois,3,4,No,Yes,Yes,No,DSL,No,Yes,No,Yes,No,No,Yes,No,Two year,Yes,Electronic check,29.99,5150.95,142.33,123.02,229.76,5361.4,Joined,,,1
+CUSTJ0089,Male,38,Yes,California,3,40,Yes,Yes,Yes,No,DSL,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card,89.43,2552.69,125.78,91.38,21.35,2539.64,Joined,,,1
+CUSTJ0090,Male,72,Yes,Illinois,2,2,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,Month-to-month,No,Electronic check,94.92,8526.42,19.91,72.62,79.86,8658.99,Joined,,,1
+CUSTJ0096,Male,32,Yes,Texas,1,2,No,Yes,No,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Bank transfer,55.77,6379.37,47.73,115.69,56.64,6503.97,Joined,,,1
+CUSTJ0098,Male,58,Yes,California,2,30,No,Yes,No phone service,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,One year,No,Credit card,104.68,5140.53,137.24,77.47,139.27,5220.03,Joined,,,1
+CUSTJ0099,Male,45,Yes,Florida,5,63,No,No,Yes,No,Cable,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,94.08,8545.44,100.51,105.73,103.37,8654.03,Joined,,,1
+CUSTJ0101,Female,78,Yes,Florida,2,28,Yes,Yes,Yes,No,DSL,No,No,No,No,Yes,Yes,No,Yes,Two year,Yes,Mailed check,60.15,5190.88,186.81,22.56,223.33,5249.96,Joined,,,1
+CUSTJ0103,Male,33,No,New York,4,8,No,No,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,No,No,One year,Yes,Mailed check,48.17,1477.66,66.28,1.68,277.48,1690.54,Joined,,,1
+CUSTJ0109,Female,71,No,Texas,4,16,Yes,Yes,No phone service,No,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer,98.81,3997.17,178.1,6.49,45.07,3870.63,Joined,,,1
+CUSTJ0110,Male,68,Yes,Florida,4,63,No,No,Yes,Yes,Cable,Yes,Yes,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,109.07,2587.08,25.53,76.6,222.31,2860.46,Joined,,,1
+CUSTJ0120,Male,26,No,Texas,4,1,No,Yes,No phone service,No,Cable,No,No,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card,99.78,8545.68,40.0,100.92,291.95,8898.55,Joined,,,1
+CUSTJ0122,Male,32,Yes,Florida,1,51,Yes,Yes,No,Yes,Cable,Yes,No,Yes,No,No,Yes,Yes,Yes,One year,No,Bank transfer,60.26,3064.44,199.46,124.0,168.22,3157.2,Joined,,,1
+CUSTJ0127,Male,23,Yes,Texas,5,10,No,No,No,Yes,Fiber optic,Yes,Yes,No,Yes,No,Yes,Yes,No,Two year,Yes,Electronic check,91.9,8202.4,185.39,4.88,120.49,8142.38,Joined,,,1
+CUSTJ0132,Male,24,No,Florida,0,23,No,No,Yes,No,Fiber optic,No,No,Yes,No,No,No,Yes,Yes,Two year,No,Mailed check,112.27,8291.23,171.81,27.42,190.58,8337.42,Joined,,,1
+CUSTJ0138,Female,27,Yes,Florida,5,61,Yes,Yes,No,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,No,Yes,One year,Yes,Mailed check,58.39,4786.74,149.41,142.05,107.1,4886.48,Joined,,,1
+CUSTJ0139,Female,33,Yes,New York,1,21,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Two year,Yes,Electronic check,111.46,5837.68,137.61,39.8,10.75,5750.62,Joined,,,1
+CUSTJ0140,Female,76,Yes,Texas,1,35,No,Yes,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,No,Yes,One year,Yes,Mailed check,57.76,245.19,151.81,14.22,187.1,294.7,Joined,,,1
+CUSTJ0141,Male,58,Yes,New York,2,32,Yes,Yes,No phone service,Yes,No,No,Yes,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,53.51,5301.27,127.43,61.93,167.38,5403.15,Joined,,,1
+CUSTJ0142,Male,58,Yes,Florida,1,29,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,72.31,2737.75,124.67,0.88,181.66,2795.62,Joined,,,1
+CUSTJ0147,Female,78,No,New York,4,11,No,No,No phone service,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,No,No,Two year,No,Mailed check,21.47,1319.04,12.65,30.19,162.7,1499.28,Joined,,,1
+CUSTJ0151,Female,35,Yes,Illinois,0,60,Yes,Yes,No phone service,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Mailed check,80.3,1645.94,195.25,0.96,70.12,1521.77,Joined,,,1
+CUSTJ0158,Male,49,Yes,Illinois,0,60,No,Yes,Yes,Yes,Cable,No,No,No,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer,32.3,8241.68,158.39,140.0,77.7,8300.99,Joined,,,1
+CUSTJ0162,Male,63,No,Illinois,0,56,Yes,Yes,Yes,Yes,Cable,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,71.01,7554.15,41.42,89.9,5.96,7608.59,Joined,,,1
+CUSTJ0163,Male,60,Yes,New York,1,28,No,Yes,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Yes,Yes,Two year,Yes,Mailed check,52.25,7270.13,7.92,11.82,47.3,7321.33,Joined,,,1
+CUSTJ0167,Male,23,No,California,0,45,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,One year,Yes,Mailed check,99.35,6148.85,190.12,11.55,241.41,6211.69,Joined,,,1
+CUSTJ0168,Female,41,Yes,New York,0,21,No,Yes,No,Yes,Fiber optic,No,No,No,Yes,No,Yes,No,No,Two year,Yes,Mailed check,74.21,2401.75,48.79,96.71,181.52,2631.19,Joined,,,1
+CUSTJ0170,Male,57,Yes,Illinois,0,47,Yes,Yes,Yes,Yes,Cable,Yes,No,Yes,Yes,Yes,No,No,No,One year,No,Mailed check,55.19,7664.5,122.85,58.71,108.27,7708.63,Joined,,,1
+CUSTJ0171,Male,57,No,Texas,2,8,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,One year,Yes,Electronic check,56.77,2252.45,69.34,39.12,250.77,2473.0,Joined,,,1
+CUSTJ0174,Female,71,No,Illinois,3,54,Yes,No,No,No,Cable,No,No,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer,67.02,1822.44,84.08,79.14,70.37,1887.87,Joined,,,1
+CUSTJ0176,Male,43,Yes,Illinois,3,28,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Bank transfer,104.37,355.02,170.31,32.33,109.54,326.58,Joined,,,1
+CUSTJ0177,Male,48,No,Texas,1,16,Yes,No,Yes,Yes,Cable,No,Yes,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,106.25,1129.6,58.07,15.58,65.91,1153.02,Joined,,,1
+CUSTJ0179,Male,38,No,Illinois,3,56,No,Yes,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,No,No,Two year,No,Credit card,49.67,3087.76,127.08,24.11,176.63,3161.42,Joined,,,1
+CUSTJ0180,Male,78,Yes,Illinois,3,31,Yes,Yes,No phone service,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card,52.87,4879.18,102.98,0.4,11.93,4788.53,Joined,,,1
+CUSTJ0182,Female,24,No,California,2,70,No,Yes,No,No,Cable,No,No,No,No,Yes,No,No,No,One year,Yes,Mailed check,75.87,7998.34,133.66,50.27,140.38,8055.33,Joined,,,1
+CUSTJ0187,Female,77,No,Texas,5,39,Yes,Yes,No phone service,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,83.62,8180.99,117.55,4.22,223.19,8290.85,Joined,,,1
+CUSTJ0188,Male,47,No,Illinois,5,66,No,Yes,No phone service,No,Cable,Yes,Yes,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card,98.93,4741.63,87.21,21.69,27.54,4703.65,Joined,,,1
+CUSTJ0194,Female,23,Yes,California,0,8,Yes,No,No phone service,Yes,Cable,No,No,No,No,Yes,No,No,Yes,One year,No,Credit card,103.93,2655.18,120.62,110.58,264.87,2910.01,Joined,,,1
+CUSTJ0198,Male,26,No,California,4,32,Yes,Yes,No,No,Fiber optic,Yes,No,No,No,No,No,Yes,Yes,Two year,No,Credit card,109.39,8220.53,77.29,9.73,61.01,8213.98,Joined,,,1
+CUSTJ0207,Male,48,Yes,New York,4,29,Yes,Yes,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,Yes,No,Two year,Yes,Credit card,61.38,1887.78,156.66,97.77,139.11,1968.0,Joined,,,1
+CUSTJ0215,Male,59,No,Illinois,0,69,No,No,No phone service,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,No,No,One year,No,Electronic check,92.71,1413.76,192.1,55.72,65.22,1342.6,Joined,,,1
+CUSTJ0218,Male,50,Yes,Florida,0,14,Yes,No,No,No,DSL,No,Yes,Yes,Yes,No,Yes,Yes,Yes,One year,No,Credit card,88.64,2547.84,122.77,132.13,292.42,2849.62,Joined,,,1
+CUSTJ0224,Female,41,No,California,2,2,No,Yes,No,No,DSL,Yes,No,No,Yes,No,No,Yes,Yes,Two year,Yes,Credit card,76.7,3587.54,93.74,10.58,67.33,3571.71,Joined,,,1
+CUSTJ0227,Female,23,Yes,Illinois,0,61,Yes,Yes,Yes,No,Cable,No,No,Yes,No,No,No,Yes,Yes,Two year,No,Bank transfer,103.23,6145.76,138.21,53.46,135.01,6196.02,Joined,,,1
+CUSTJ0233,Female,29,No,Illinois,5,2,No,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card,108.32,6776.92,158.86,146.25,64.94,6829.25,Joined,,,1
+CUSTJ0234,Male,42,No,Florida,5,58,Yes,No,No,No,Fiber optic,Yes,No,Yes,Yes,Yes,No,Yes,No,Month-to-month,No,Credit card,29.52,2316.75,97.03,13.59,155.55,2388.86,Joined,,,1
+CUSTJ0236,Male,51,No,Florida,2,59,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,One year,Yes,Credit card,22.01,2720.28,163.95,6.46,128.11,2690.9,Joined,,,1
+CUSTJ0241,Female,63,Yes,New York,2,31,No,No,No phone service,Yes,Fiber optic,No,No,No,No,No,No,Yes,Yes,Two year,Yes,Credit card,119.46,526.45,33.06,8.24,107.91,609.54,Joined,,,1
+CUSTJ0242,Male,22,No,California,0,63,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,36.5,1151.69,12.26,45.6,66.96,1251.99,Joined,,,1
+CUSTJ0245,Male,34,Yes,Illinois,2,22,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,92.45,5010.51,3.82,52.6,199.78,5259.07,Joined,,,1
+CUSTJ0250,Male,40,No,Illinois,3,69,No,Yes,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,54.63,5394.88,46.53,13.41,229.54,5591.3,Joined,,,1
+CUSTJ0263,Male,33,Yes,Florida,3,8,No,Yes,Yes,No,Cable,No,No,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Credit card,74.23,1909.27,148.54,144.2,175.34,2080.27,Joined,,,1
+CUSTJ0264,Male,18,No,California,2,33,No,Yes,No,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Yes,Yes,One year,No,Electronic check,51.26,1440.08,121.91,12.63,218.78,1549.58,Joined,,,1
+CUSTJ0265,Male,52,Yes,Illinois,5,50,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,68.65,2114.89,118.05,58.07,166.79,2221.7,Joined,,,1
+CUSTJ0266,Male,20,No,California,2,60,Yes,Yes,No,Yes,Cable,Yes,Yes,No,Yes,Yes,Yes,Yes,No,One year,No,Credit card,41.91,1242.0,173.15,50.36,160.12,1279.33,Joined,,,1
+CUSTJ0267,Male,23,Yes,Illinois,4,45,Yes,No,No phone service,No,Cable,No,Yes,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,30.92,3784.06,146.52,88.1,248.68,3974.32,Joined,,,1
+CUSTJ0268,Male,74,No,Texas,4,30,Yes,Yes,No,Yes,No,No,No,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,75.67,3210.9,71.93,56.35,114.38,3309.7,Joined,,,1
+CUSTJ0269,Female,45,No,Illinois,1,53,Yes,No,No,No,Cable,No,Yes,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,60.4,2195.56,124.06,4.14,48.13,2123.77,Joined,,,1
+CUSTJ0270,Female,60,Yes,Illinois,5,40,Yes,No,Yes,No,Cable,No,Yes,No,Yes,Yes,Yes,No,No,Two year,No,Mailed check,51.05,4121.88,122.46,6.74,66.25,4072.41,Joined,,,1
+CUSTJ0271,Female,31,Yes,Illinois,0,46,Yes,Yes,No,No,DSL,Yes,Yes,Yes,No,Yes,Yes,No,Yes,One year,No,Electronic check,28.54,2277.93,163.27,27.03,205.63,2347.32,Joined,,,1
+CUSTJ0272,Male,40,Yes,Illinois,3,50,Yes,Yes,No,No,DSL,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Credit card,63.51,2791.91,195.33,21.77,72.58,2690.93,Joined,,,1
+CUSTJ0273,Female,66,Yes,Florida,2,56,Yes,No,No,No,Cable,Yes,Yes,No,Yes,No,Yes,Yes,No,Month-to-month,No,Electronic check,84.28,1605.75,150.7,2.58,235.61,1693.24,Joined,,,1
+CUSTJ0274,Female,44,No,Florida,1,59,No,No,No phone service,No,No,No,Yes,Yes,No,No,Yes,Yes,No,One year,No,Mailed check,47.18,855.72,19.54,3.12,219.61,1058.91,Joined,,,1
+CUSTJ0278,Female,28,No,Texas,4,18,No,Yes,No phone service,Yes,DSL,Yes,Yes,Yes,No,No,No,No,Yes,Month-to-month,No,Credit card,24.89,2380.84,100.42,89.26,85.97,2455.65,Joined,,,1
+CUSTJ0286,Female,34,No,Texas,5,19,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Mailed check,43.25,2764.78,134.56,66.81,58.04,2755.07,Joined,,,1
+CUSTJ0292,Female,21,No,New York,4,24,No,Yes,No,Yes,Fiber optic,Yes,No,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,73.02,5557.17,22.21,3.18,58.63,5596.77,Joined,,,1
+CUSTJ0293,Male,30,Yes,New York,2,12,Yes,Yes,No,No,Cable,Yes,No,Yes,Yes,No,Yes,Yes,Yes,One year,No,Mailed check,70.01,3015.47,193.12,14.4,267.25,3104.0,Joined,,,1
+CUSTJ0295,Female,66,No,Florida,0,53,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,One year,No,Credit card,106.87,1224.35,139.13,17.67,253.28,1356.17,Joined,,,1
+CUSTJ0298,Female,32,No,California,4,18,No,No,No,Yes,DSL,No,Yes,Yes,Yes,Yes,No,No,No,One year,No,Credit card,37.54,3232.83,191.09,9.09,244.51,3295.34,Joined,,,1
+CUSTJ0299,Male,75,No,Texas,1,62,No,Yes,No phone service,Yes,Cable,Yes,Yes,Yes,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,56.68,7182.82,184.53,136.55,278.43,7413.27,Joined,,,1
+CUSTJ0305,Male,55,No,Illinois,4,16,No,Yes,No,No,Cable,Yes,No,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer,33.34,3992.67,191.67,3.58,98.84,3903.42,Joined,,,1
+CUSTJ0308,Male,45,No,Florida,3,64,No,No,No,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,No,No,One year,No,Electronic check,96.58,3085.21,182.31,15.83,251.35,3170.08,Joined,,,1
+CUSTJ0309,Male,36,Yes,New York,1,52,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card,40.19,3687.76,36.37,1.91,243.61,3896.91,Joined,,,1
+CUSTJ0310,Female,60,No,New York,4,39,No,Yes,No,No,Cable,Yes,Yes,Yes,Yes,No,Yes,No,No,Two year,Yes,Credit card,91.99,1932.07,110.16,149.3,254.99,2226.2,Joined,,,1
+CUSTJ0312,Female,69,Yes,New York,4,37,Yes,No,No phone service,No,Cable,No,No,No,Yes,Yes,Yes,Yes,No,One year,No,Electronic check,96.35,1570.02,193.9,147.73,123.2,1647.05,Joined,,,1
+CUSTJ0313,Male,37,No,Texas,0,70,Yes,Yes,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,43.75,3120.76,41.1,46.61,200.94,3327.21,Joined,,,1
+CUSTJ0315,Female,42,No,Florida,1,68,Yes,Yes,No,Yes,Cable,No,No,No,No,Yes,Yes,No,No,Two year,Yes,Mailed check,73.56,2982.03,129.34,44.13,43.72,2940.54,Joined,,,1
+CUSTJ0318,Male,61,No,Florida,5,43,No,No,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,Yes,No,Two year,No,Electronic check,27.97,2160.09,192.81,25.85,201.23,2194.36,Joined,,,1
+CUSTJ0319,Male,61,No,Illinois,4,12,No,Yes,No,No,Cable,Yes,Yes,Yes,Yes,Yes,No,Yes,No,One year,Yes,Credit card,98.9,2148.36,152.02,75.58,10.1,2082.02,Joined,,,1
+CUSTJ0320,Male,32,No,Illinois,0,60,No,No,No,Yes,Cable,Yes,No,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card,49.99,2297.56,129.43,115.1,257.5,2540.73,Joined,,,1
+CUSTJ0322,Male,64,No,California,1,11,Yes,Yes,No phone service,Yes,Cable,Yes,No,Yes,Yes,Yes,No,No,No,Two year,No,Electronic check,86.12,8551.27,140.22,9.03,282.61,8702.69,Joined,,,1
+CUSTJ0327,Male,29,Yes,New York,1,10,No,Yes,No phone service,Yes,DSL,No,Yes,No,Yes,No,Yes,Yes,No,One year,Yes,Bank transfer,85.74,1044.41,138.81,86.15,156.96,1148.71,Joined,,,1
+CUSTJ0329,Male,62,No,Florida,4,64,No,Yes,No phone service,No,Cable,Yes,Yes,No,No,Yes,Yes,Yes,Yes,One year,No,Credit card,32.99,2413.9,183.27,3.02,257.74,2491.39,Joined,,,1
+CUSTJ0330,Male,79,No,Texas,4,55,Yes,Yes,No phone service,Yes,DSL,No,No,Yes,Yes,Yes,No,Yes,Yes,One year,No,Mailed check,39.08,7731.99,14.86,18.61,235.24,7970.98,Joined,,,1
+CUSTJ0332,Male,75,No,Texas,5,4,Yes,Yes,No phone service,No,DSL,No,No,No,No,No,No,Yes,Yes,Two year,Yes,Mailed check,76.33,2857.47,189.71,7.31,131.22,2806.29,Joined,,,1
+CUSTJ0333,Male,20,No,New York,0,4,No,Yes,No phone service,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Mailed check,87.88,6263.16,104.98,53.33,49.37,6260.88,Joined,,,1
+CUSTJ0335,Male,41,Yes,Illinois,0,53,No,Yes,No,Yes,Cable,No,Yes,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,84.06,4812.75,157.29,37.68,150.4,4843.54,Joined,,,1
+CUSTJ0338,Female,76,Yes,New York,0,49,No,No,No,Yes,Cable,No,Yes,Yes,Yes,No,Yes,No,Yes,One year,No,Credit card,55.23,869.21,180.62,22.18,248.45,959.22,Joined,,,1
+CUSTJ0342,Male,30,No,New York,3,1,Yes,Yes,No phone service,No,Fiber optic,Yes,No,No,No,No,No,No,Yes,One year,Yes,Credit card,29.81,2419.67,16.26,59.33,132.67,2595.41,Joined,,,1
+CUSTJ0353,Male,24,No,Texas,4,72,No,No,No phone service,No,Cable,Yes,Yes,Yes,No,No,No,No,No,One year,Yes,Electronic check,35.12,2658.79,65.62,68.62,238.17,2899.96,Joined,,,1
+CUSTJ0355,Male,69,No,New York,0,4,No,No,No,Yes,Fiber optic,No,No,Yes,No,Yes,No,No,Yes,Two year,Yes,Bank transfer,53.59,628.09,25.05,28.92,272.79,904.75,Joined,,,1
+CUSTJ0359,Female,59,Yes,California,5,57,No,Yes,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,No,Yes,One year,No,Mailed check,75.82,410.91,105.07,73.19,115.31,494.34,Joined,,,1
+CUSTJ0363,Male,27,Yes,Texas,3,23,Yes,No,Yes,Yes,DSL,No,No,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,35.73,8906.97,53.26,149.65,80.62,9083.98,Joined,,,1
+CUSTJ0366,Female,20,Yes,Texas,2,67,No,Yes,No phone service,No,Cable,Yes,Yes,No,No,Yes,Yes,Yes,No,Two year,No,Electronic check,103.61,3117.22,196.84,145.58,41.72,3107.68,Joined,,,1
+CUSTJ0371,Female,24,No,Florida,1,15,Yes,Yes,No phone service,No,Cable,No,No,No,Yes,No,Yes,No,Yes,One year,Yes,Mailed check,32.61,1188.59,136.32,62.81,53.91,1168.99,Joined,,,1
+CUSTJ0379,Male,27,No,California,4,2,Yes,Yes,No phone service,No,Cable,No,No,No,Yes,No,Yes,No,Yes,Month-to-month,No,Bank transfer,72.18,1930.55,61.32,29.9,272.48,2171.61,Joined,,,1
+CUSTJ0385,Male,62,No,New York,2,9,Yes,No,No phone service,No,Cable,No,No,No,No,Yes,Yes,Yes,Yes,Two year,No,Electronic check,98.84,2180.22,120.22,54.37,42.43,2156.8,Joined,,,1
+CUSTJ0386,Female,27,No,Illinois,3,15,Yes,Yes,No,Yes,Cable,Yes,No,No,Yes,No,Yes,No,Yes,Month-to-month,No,Credit card,48.94,2510.88,9.04,115.02,143.8,2760.66,Joined,,,1
+CUSTJ0387,Male,20,Yes,California,3,54,Yes,Yes,No phone service,Yes,No,Yes,No,No,No,Yes,No,No,No,One year,No,Mailed check,96.83,7891.26,165.29,19.46,54.46,7799.89,Joined,,,1
+CUSTJ0391,Male,69,Yes,Florida,3,3,Yes,Yes,No phone service,Yes,Fiber optic,No,No,No,No,Yes,No,No,Yes,Two year,Yes,Mailed check,105.29,2512.44,127.78,76.36,142.37,2603.39,Joined,,,1
+CUSTJ0392,Male,61,Yes,New York,5,31,No,Yes,No,Yes,Cable,Yes,Yes,Yes,No,No,No,No,Yes,One year,No,Electronic check,94.35,2304.07,74.43,64.27,72.14,2366.05,Joined,,,1
+CUSTJ0393,Male,23,No,Texas,0,28,No,Yes,No phone service,Yes,Fiber optic,No,No,No,No,Yes,Yes,Yes,No,Two year,Yes,Credit card,35.07,2174.93,168.5,26.33,190.67,2223.43,Joined,,,1
+CUSTJ0395,Male,44,Yes,Illinois,0,57,Yes,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Credit card,70.85,1417.71,135.35,96.8,150.49,1529.65,Joined,,,1
+CUSTJ0396,Male,37,Yes,Texas,1,61,No,Yes,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,87.25,8678.89,60.88,44.21,66.36,8728.58,Joined,,,1
+CUSTJ0400,Male,30,Yes,Illinois,5,32,No,Yes,No phone service,No,DSL,No,Yes,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,23.79,7015.1,120.22,8.37,253.91,7157.16,Joined,,,1
+CUSTJ0404,Female,45,Yes,New York,2,32,No,Yes,No phone service,Yes,DSL,Yes,No,No,No,No,No,Yes,No,One year,No,Credit card,71.4,2335.52,74.14,12.77,268.22,2542.37,Joined,,,1
+CUSTJ0406,Female,78,No,Illinois,5,58,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,One year,Yes,Electronic check,48.7,2879.67,122.6,1.69,233.93,2992.69,Joined,,,1
+CUSTJ0407,Female,63,No,Florida,0,10,Yes,Yes,No,Yes,Cable,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Credit card,20.54,1235.13,99.31,86.84,240.6,1463.26,Joined,,,1
+CUSTJ0411,Male,43,Yes,California,3,39,No,Yes,Yes,No,DSL,No,No,No,No,No,No,Yes,No,Two year,Yes,Credit card,106.79,3737.56,40.72,141.17,42.07,3880.08,Joined,,,1
+CUSTJ0412,Male,55,No,Illinois,2,33,No,Yes,No,No,Fiber optic,No,No,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,41.62,2745.86,160.36,51.42,267.56,2904.48,Joined,,,1
+CUSTJ0418,Male,53,No,New York,1,69,No,Yes,No phone service,Yes,DSL,Yes,No,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,108.13,142.87,148.64,66.19,172.95,233.37,Joined,,,1
+CUSTJ0419,Female,45,No,Texas,3,10,No,Yes,No phone service,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,No,Yes,Two year,Yes,Electronic check,62.93,690.52,148.65,77.57,185.05,804.49,Joined,,,1
+CUSTJ0420,Male,31,No,Texas,2,11,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Two year,No,Electronic check,100.88,6965.23,140.52,46.73,130.27,7001.71,Joined,,,1
+CUSTJ0422,Female,27,Yes,Florida,2,70,Yes,No,No phone service,No,DSL,No,Yes,No,No,No,Yes,Yes,Yes,Two year,No,Electronic check,48.37,8771.81,125.08,130.61,15.02,8792.36,Joined,,,1
+CUSTJ0423,Male,23,Yes,Texas,3,26,No,Yes,No,No,DSL,Yes,No,No,No,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,34.09,6406.28,186.45,94.64,55.76,6370.23,Joined,,,1
+CUSTJ0424,Female,57,Yes,California,0,42,Yes,Yes,No,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,No,No,One year,Yes,Mailed check,25.05,755.32,158.31,91.64,35.7,724.35,Joined,,,1
+CUSTJ0426,Male,46,No,New York,0,51,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,61.52,4053.03,52.0,54.15,107.42,4162.6,Joined,,,1
+CUSTJ0427,Female,52,No,Illinois,3,59,No,No,No,Yes,DSL,Yes,Yes,No,No,No,Yes,Yes,No,Two year,Yes,Bank transfer,90.59,176.42,27.93,11.39,243.63,403.51,Joined,,,1
+CUSTJ0428,Male,41,No,Florida,3,47,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,67.39,548.16,183.82,105.39,47.66,517.39,Joined,,,1
+CUSTJ0429,Male,54,No,Texas,5,49,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,No,Two year,Yes,Electronic check,48.27,3222.86,79.92,58.18,194.26,3395.38,Joined,,,1
+CUSTJ0433,Female,27,Yes,California,1,3,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,One year,Yes,Mailed check,61.59,1977.97,180.77,143.42,195.99,2136.61,Joined,,,1
+CUSTJ0435,Male,23,No,Florida,1,64,No,No,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Electronic check,73.97,8571.44,76.6,100.03,240.92,8835.79,Joined,,,1
+CUSTJ0436,Female,32,Yes,Illinois,4,33,No,Yes,No phone service,No,Fiber optic,No,No,No,Yes,No,No,No,No,One year,Yes,Bank transfer,50.32,5915.09,169.58,3.72,254.93,6004.16,Joined,,,1
+CUSTJ0444,Female,78,No,Florida,0,42,Yes,Yes,No,Yes,Fiber optic,Yes,No,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,116.69,7482.16,143.41,88.17,43.44,7470.36,Joined,,,1
+CUSTJ0451,Female,52,No,California,3,2,No,Yes,No phone service,No,Cable,Yes,Yes,No,Yes,Yes,Yes,No,No,One year,Yes,Electronic check,29.79,678.09,140.84,5.09,158.43,700.77,Joined,,,1
+CUSTJ0453,Male,20,Yes,Illinois,5,44,Yes,Yes,Yes,No,Cable,Yes,Yes,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,21.49,1850.16,101.49,87.04,103.02,1938.73,Joined,,,1
+CUSTJ0455,Male,31,No,Illinois,2,51,Yes,Yes,No phone service,No,Cable,No,No,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,86.71,5872.63,199.71,126.95,200.73,6000.6,Joined,,,1
+CUSTJ0458,Male,72,No,Texas,4,1,Yes,No,Yes,No,Cable,No,No,No,No,Yes,Yes,No,Yes,Two year,No,Mailed check,37.66,249.67,165.02,137.21,256.72,478.58,Joined,,,1
+CUSTJ0462,Female,35,No,California,0,5,No,Yes,Yes,Yes,DSL,No,No,No,Yes,Yes,No,Yes,No,Two year,No,Mailed check,88.27,5710.04,1.92,144.11,70.14,5922.37,Joined,,,1
+CUSTJ0464,Male,39,Yes,Texas,5,53,Yes,Yes,No,Yes,Cable,Yes,No,No,No,Yes,No,Yes,Yes,One year,Yes,Mailed check,92.58,6763.39,132.93,56.9,129.33,6816.69,Joined,,,1
+CUSTJ0465,Male,78,No,New York,1,3,Yes,Yes,No phone service,Yes,Cable,Yes,No,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Electronic check,90.52,8794.93,52.05,56.47,140.13,8939.48,Joined,,,1
+CUSTJ0466,Male,19,No,Illinois,4,56,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,No,No,Two year,Yes,Credit card,24.18,7930.45,107.21,76.63,117.18,8017.05,Joined,,,1
+CUSTJ0470,Male,77,No,California,5,35,No,Yes,Yes,Yes,Cable,Yes,Yes,Yes,No,Yes,No,No,No,Month-to-month,No,Mailed check,89.82,7681.53,24.45,111.45,233.63,8002.16,Joined,,,1
+CUSTJ0476,Male,23,No,Texas,4,4,Yes,Yes,No,No,DSL,No,Yes,Yes,No,No,Yes,No,No,One year,Yes,Credit card,70.31,239.55,127.36,18.05,91.66,221.9,Joined,,,1
+CUSTJ0478,Female,42,Yes,Illinois,2,58,Yes,Yes,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,No,No,Two year,Yes,Mailed check,79.49,2021.0,137.06,58.64,147.3,2089.88,Joined,,,1
+CUSTJ0480,Female,53,Yes,Illinois,1,1,No,Yes,No phone service,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Two year,No,Bank transfer,44.89,1226.03,184.25,64.2,73.34,1179.32,Joined,,,1
+CUSTJ0481,Female,37,No,Texas,4,57,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Two year,Yes,Credit card,20.81,3020.85,59.98,31.94,125.69,3118.5,Joined,,,1
+CUSTJ0486,Female,60,Yes,California,2,25,No,Yes,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Yes,No,One year,Yes,Credit card,27.32,4774.24,2.26,49.5,157.65,4979.13,Joined,,,1
+CUSTJ0488,Male,56,Yes,California,3,63,No,Yes,No,Yes,Fiber optic,Yes,Yes,No,No,No,No,Yes,Yes,One year,No,Electronic check,29.64,497.25,173.32,45.55,36.29,405.77,Joined,,,1
+CUSTJ0491,Female,29,No,California,4,3,Yes,Yes,No,Yes,Cable,Yes,No,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,66.72,3438.01,191.44,92.49,265.73,3604.79,Joined,,,1
+CUSTJ0492,Male,32,No,California,5,32,No,Yes,No,No,Cable,Yes,No,No,No,Yes,No,No,Yes,One year,No,Bank transfer,77.5,648.17,179.5,105.16,123.68,697.51,Joined,,,1
+CUSTJ0493,Male,62,No,Illinois,1,66,No,Yes,No phone service,Yes,Fiber optic,No,Yes,No,No,No,Yes,No,Yes,Month-to-month,No,Mailed check,72.1,8880.06,56.62,61.02,73.4,8957.86,Joined,,,1
+CUSTJ0497,Male,59,Yes,Illinois,0,45,No,No,No,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Yes,No,One year,Yes,Mailed check,101.31,2341.8,164.72,87.94,109.65,2374.67,Joined,,,1
+CUSTJ0498,Male,28,Yes,California,0,6,No,Yes,No phone service,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Two year,No,Mailed check,78.24,4925.28,193.72,28.32,139.77,4899.65,Joined,,,1
+CUSTJ0500,Male,67,Yes,Texas,0,5,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,One year,No,Mailed check,53.94,582.38,12.34,69.28,174.16,813.48,Joined,,,1

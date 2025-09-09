@@ -1,0 +1,501 @@
+Customer_Id,Gender,Age,Married,State,Number_of_referrals,Tenure in months,Value deal,Phone service,Multiple_lines,Internet service,Internet type,Online security,Online backup,Device protection plan,Premium support,Streaming TV,Streaming movies,Streaming music,Unlimited data,Contract,Paperless billing,Payment method,Monthly charge,Total charges,Total refunds,Total extra data charges,Total long distance charges,Total revenue,Customer status,Churn category,Churn reason
+CUST0001,Male,25,Yes,Texas,3,34,Yes,Yes,No phone service,No,No,No,No,No,Yes,Yes,No,Yes,No,Month-to-month,No,Credit card,79.8,1724.36,59.74,47.32,193.94,1905.88,Churned,Other,Price too high
+CUST0002,Male,61,No,Florida,5,15,No,No,Yes,No,DSL,No,Yes,Yes,No,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,55.85,5019.68,83.99,16.22,89.53,5041.44,Churned,Attitude,Attitude of support person
+CUST0003,Female,44,No,Texas,1,16,Yes,Yes,No phone service,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,86.81,3160.36,97.92,117.59,189.93,3369.96,Stayed,,
+CUST0004,Female,42,Yes,California,2,72,Yes,No,No,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,No,Yes,Two year,No,Credit card,58.27,2037.33,134.1,142.55,89.78,2135.56,Churned,Other,Competitor had better devices
+CUST0005,Female,63,No,California,3,37,Yes,No,No phone service,No,DSL,Yes,No,No,No,No,Yes,Yes,No,One year,No,Credit card,101.45,1599.34,12.04,51.59,17.09,1655.98,Stayed,,
+CUST0006,Female,48,No,Texas,1,12,Yes,No,No,No,DSL,No,Yes,Yes,No,Yes,No,No,No,One year,Yes,Electronic check,38.05,7768.04,15.29,43.74,95.88,7892.37,Stayed,,
+CUST0007,Male,47,Yes,Texas,2,48,No,Yes,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,No,Yes,One year,Yes,Electronic check,29.52,2697.56,130.32,118.68,27.68,2713.6,Stayed,,
+CUST0008,Male,75,Yes,California,5,31,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,Month-to-month,No,Mailed check,40.07,2908.2,173.17,7.33,152.7,2895.06,Stayed,,
+CUST0009,Female,21,No,Florida,1,68,No,No,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,102.35,2097.26,136.59,120.44,286.56,2367.67,Stayed,,
+CUST0010,Male,55,No,Florida,5,50,Yes,No,No phone service,No,DSL,Yes,No,No,Yes,No,Yes,No,No,One year,Yes,Electronic check,95.76,3339.43,136.32,118.98,67.02,3389.11,Churned,Competitor,Moving
+CUST0011,Male,59,Yes,Florida,3,36,Yes,No,No,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card,40.41,4544.04,122.07,101.52,204.6,4728.09,Stayed,,
+CUST0012,Male,55,Yes,California,3,66,No,Yes,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Yes,No,One year,Yes,Mailed check,78.45,5033.66,190.57,56.59,165.2,5064.88,Stayed,,
+CUST0013,Female,27,Yes,Texas,2,43,Yes,Yes,Yes,Yes,Cable,Yes,No,Yes,No,No,No,No,Yes,One year,Yes,Mailed check,102.54,3654.96,173.3,86.95,23.0,3591.61,Churned,Dissatisfaction,Moving
+CUST0014,Male,40,Yes,Florida,0,15,Yes,No,No,Yes,DSL,No,Yes,No,No,No,Yes,No,Yes,Two year,Yes,Electronic check,83.96,4848.7,63.84,88.9,56.21,4929.97,Stayed,,
+CUST0015,Female,33,Yes,Florida,3,67,Yes,Yes,No phone service,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Two year,No,Electronic check,76.45,2245.02,106.61,19.52,249.93,2407.86,Churned,Competitor,Moving
+CUST0016,Female,25,Yes,New York,0,61,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,110.06,7888.22,55.58,19.81,259.7,8112.15,Churned,Dissatisfaction,Attitude of support person
+CUST0017,Female,78,No,New York,2,1,No,Yes,No,No,Fiber optic,Yes,Yes,No,Yes,Yes,No,No,Yes,One year,No,Credit card,36.59,1652.39,156.86,20.76,246.81,1763.1,Churned,Price,Network reliability
+CUST0018,Female,40,Yes,Texas,5,1,No,Yes,No,No,DSL,Yes,No,No,No,Yes,Yes,Yes,No,One year,No,Credit card,98.75,2692.01,122.55,131.15,242.62,2943.23,Churned,Dissatisfaction,Attitude of support person
+CUST0019,Male,20,Yes,California,2,50,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,74.08,5900.9,41.06,6.49,41.91,5908.24,Churned,Attitude,Network reliability
+CUST0020,Female,55,No,Texas,0,58,No,Yes,No,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card,71.09,7443.26,194.03,110.09,53.2,7412.52,Stayed,,
+CUST0021,Female,36,Yes,New York,4,44,Yes,Yes,No,Yes,Cable,No,Yes,No,Yes,Yes,No,Yes,No,Month-to-month,No,Credit card,104.31,5959.0,166.1,68.34,199.39,6060.63,Churned,Dissatisfaction,Network reliability
+CUST0022,Male,69,No,Texas,4,45,No,Yes,No phone service,Yes,Cable,Yes,Yes,No,Yes,Yes,Yes,No,No,Two year,Yes,Credit card,90.86,3085.85,56.46,143.23,177.31,3349.93,Stayed,,
+CUST0023,Female,38,No,Texas,3,38,No,Yes,Yes,Yes,DSL,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,77.31,8010.54,48.43,94.3,277.51,8333.92,Churned,Competitor,Attitude of support person
+CUST0024,Female,50,No,Florida,3,47,Yes,Yes,Yes,Yes,DSL,No,No,No,Yes,No,Yes,Yes,No,One year,Yes,Bank transfer,90.17,7541.54,15.62,18.52,202.53,7746.97,Churned,Competitor,Don’t know
+CUST0025,Female,78,Yes,New York,5,51,Yes,Yes,Yes,Yes,Cable,Yes,Yes,Yes,No,Yes,No,Yes,Yes,One year,Yes,Credit card,104.39,8572.17,146.28,43.79,122.66,8592.34,Churned,Attitude,Price too high
+CUST0026,Female,60,No,Florida,2,6,Yes,No,No phone service,No,Fiber optic,No,Yes,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,109.58,1996.27,45.46,104.55,30.73,2086.09,Stayed,,
+CUST0027,Female,65,No,Texas,3,21,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,One year,Yes,Electronic check,98.9,4546.4,147.38,72.94,279.37,4751.33,Stayed,,
+CUST0028,Female,58,Yes,California,2,30,Yes,Yes,No,Yes,DSL,No,No,No,Yes,Yes,Yes,Yes,No,One year,No,Mailed check,41.19,4614.34,90.94,145.32,11.09,4679.81,Stayed,,
+CUST0029,Male,70,Yes,Texas,1,67,Yes,No,No,No,Cable,Yes,No,No,Yes,No,Yes,No,Yes,One year,Yes,Credit card,43.86,1151.96,133.08,48.49,286.71,1354.08,Stayed,,
+CUST0030,Male,68,Yes,Texas,2,15,No,Yes,No phone service,Yes,Fiber optic,Yes,Yes,No,Yes,No,Yes,No,Yes,Month-to-month,No,Bank transfer,117.34,8488.33,31.81,61.17,112.38,8630.07,Stayed,,
+CUST0031,Male,61,Yes,Florida,1,65,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card,42.06,2851.96,165.23,44.4,135.81,2866.94,Stayed,,
+CUST0032,Male,72,Yes,New York,4,32,No,No,No phone service,No,No,No,No,Yes,No,No,Yes,Yes,No,One year,No,Bank transfer,48.21,6213.92,111.06,134.37,171.1,6408.33,Stayed,,
+CUST0033,Female,65,No,Florida,2,28,Yes,Yes,No phone service,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,107.73,6625.76,57.72,44.19,136.7,6748.93,Stayed,,
+CUST0034,Female,58,No,Illinois,4,18,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,66.1,2752.77,150.69,100.27,298.86,3001.21,Stayed,,
+CUST0035,Female,39,No,Florida,2,27,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer,73.81,2456.68,167.47,1.36,260.28,2550.85,Stayed,,
+CUST0036,Male,43,Yes,Illinois,4,48,No,Yes,No phone service,No,Cable,No,No,No,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,55.21,2986.29,108.93,69.29,57.7,3004.35,Churned,Price,Lack of features
+CUST0037,Male,50,No,Illinois,4,9,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Two year,No,Mailed check,46.81,1907.36,154.49,68.76,110.97,1932.6,Churned,Price,Lack of features
+CUST0038,Female,65,No,California,2,18,Yes,Yes,No phone service,No,DSL,No,Yes,Yes,No,No,Yes,Yes,Yes,Month-to-month,No,Credit card,103.86,6234.84,72.54,60.46,153.47,6376.23,Stayed,,
+CUST0039,Male,46,Yes,California,5,32,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Two year,No,Mailed check,40.34,2203.31,96.0,106.71,32.03,2246.05,Churned,Other,Price too high
+CUST0040,Female,70,Yes,Texas,1,62,Yes,No,No phone service,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Two year,No,Credit card,23.3,6074.49,8.4,57.92,137.09,6261.1,Stayed,,
+CUST0041,Female,22,No,Florida,2,37,No,No,No,No,Fiber optic,Yes,No,Yes,Yes,No,No,Yes,No,One year,Yes,Credit card,28.87,339.67,197.69,3.71,285.88,431.57,Churned,Dissatisfaction,Lack of features
+CUST0042,Female,69,Yes,Illinois,3,18,Yes,Yes,No,No,Cable,No,Yes,Yes,Yes,No,No,No,No,Two year,Yes,Bank transfer,50.73,3975.72,72.52,139.88,181.25,4224.33,Churned,Attitude,Network reliability
+CUST0043,Male,69,No,Florida,5,33,Yes,Yes,No phone service,Yes,Cable,No,No,No,No,Yes,No,No,Yes,One year,No,Bank transfer,106.45,888.6,67.25,95.98,0.7,918.03,Churned,Dissatisfaction,Price too high
+CUST0044,Male,55,Yes,California,3,50,No,Yes,No,No,DSL,No,No,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,100.25,128.11,23.26,33.82,222.45,361.12,Churned,Competitor,Price too high
+CUST0045,Female,21,Yes,Illinois,2,28,No,Yes,No,Yes,DSL,Yes,Yes,Yes,No,No,No,Yes,No,Two year,Yes,Electronic check,42.5,3294.87,40.8,28.2,239.27,3521.54,Churned,Competitor,Attitude of support person
+CUST0046,Male,20,Yes,California,4,12,No,Yes,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,No,No,Two year,No,Electronic check,45.42,5760.47,73.37,58.69,278.74,6024.53,Churned,Dissatisfaction,Price too high
+CUST0047,Female,41,No,Texas,0,35,Yes,No,No phone service,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card,57.91,1085.21,12.67,96.57,230.0,1399.11,Stayed,,
+CUST0048,Female,24,No,New York,5,69,Yes,Yes,No phone service,Yes,Cable,Yes,Yes,No,Yes,Yes,No,Yes,No,Two year,Yes,Mailed check,106.55,3961.59,98.58,98.83,123.39,4085.23,Stayed,,
+CUST0049,Male,56,Yes,New York,1,45,No,Yes,No,No,Cable,Yes,Yes,Yes,No,No,No,Yes,No,Month-to-month,No,Mailed check,75.42,5137.64,199.55,96.02,41.64,5075.75,Stayed,,
+CUST0050,Male,54,Yes,Texas,4,38,No,Yes,No phone service,No,DSL,No,Yes,Yes,Yes,Yes,No,Yes,No,Two year,No,Mailed check,114.77,7260.3,135.27,28.23,211.79,7365.05,Stayed,,
+CUST0051,Male,41,No,Texas,0,31,Yes,No,Yes,Yes,DSL,No,No,No,Yes,No,Yes,No,No,One year,No,Mailed check,26.29,1957.48,102.42,89.02,17.05,1961.13,Churned,Dissatisfaction,Lack of features
+CUST0052,Male,29,No,California,1,1,No,Yes,Yes,Yes,DSL,Yes,No,Yes,No,No,No,No,No,Two year,No,Mailed check,39.19,2914.37,67.66,16.12,143.02,3005.85,Stayed,,
+CUST0053,Male,25,No,Texas,5,45,No,Yes,No phone service,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Bank transfer,92.06,1517.49,64.2,119.77,54.75,1627.81,Stayed,,
+CUST0054,Female,25,No,Illinois,1,8,Yes,Yes,No phone service,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Yes,No,Two year,No,Electronic check,83.84,5551.0,127.1,48.06,289.18,5761.14,Churned,Competitor,Lack of features
+CUST0055,Female,67,No,Texas,1,55,No,No,No,No,DSL,No,No,No,No,Yes,No,No,Yes,Two year,Yes,Credit card,61.59,417.78,137.55,50.76,188.06,519.05,Churned,Dissatisfaction,Price too high
+CUST0056,Female,73,Yes,New York,5,41,No,No,No phone service,Yes,No,Yes,No,Yes,No,No,No,No,Yes,One year,Yes,Credit card,78.89,5600.81,142.17,3.33,28.66,5490.63,Churned,Price,Competitor had better devices
+CUST0057,Male,46,No,Texas,1,45,Yes,Yes,Yes,No,Cable,Yes,Yes,Yes,Yes,Yes,No,No,No,One year,Yes,Mailed check,35.82,2409.1,147.23,116.12,241.58,2619.57,Churned,Competitor,Moving
+CUST0058,Female,76,Yes,Florida,1,71,Yes,Yes,No phone service,Yes,Cable,Yes,No,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card,119.69,8634.4,12.29,141.0,155.42,8918.53,Churned,Other,Competitor had better devices
+CUST0059,Male,63,No,Illinois,0,46,No,Yes,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,No,Yes,Two year,Yes,Bank transfer,48.96,2785.04,95.69,100.52,234.93,3024.8,Stayed,,
+CUST0060,Male,38,No,New York,3,19,No,No,No phone service,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,118.53,1725.9,13.04,89.19,195.07,1997.12,Stayed,,
+CUST0061,Male,58,Yes,Illinois,1,71,No,No,No,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,No,Yes,One year,Yes,Credit card,60.02,751.83,101.67,138.9,151.14,940.2,Stayed,,
+CUST0062,Male,18,No,New York,5,48,No,No,No phone service,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,81.96,3150.23,81.87,52.46,268.82,3389.64,Stayed,,
+CUST0063,Male,50,No,New York,0,58,Yes,No,Yes,No,Cable,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,102.9,7073.35,34.16,19.85,61.85,7120.89,Stayed,,
+CUST0064,Female,62,Yes,California,5,57,No,Yes,No,Yes,DSL,Yes,Yes,No,Yes,No,No,Yes,No,One year,No,Bank transfer,59.02,3468.63,139.86,117.93,121.14,3567.84,Stayed,,
+CUST0065,Female,30,Yes,Illinois,3,72,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Two year,Yes,Credit card,112.28,1466.64,148.39,123.19,130.2,1571.64,Stayed,,
+CUST0066,Female,32,No,California,4,64,Yes,Yes,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Bank transfer,77.64,1442.89,167.47,45.91,207.55,1528.88,Stayed,,
+CUST0067,Female,30,Yes,Illinois,1,47,No,Yes,No phone service,Yes,No,Yes,No,No,No,No,Yes,No,No,One year,No,Mailed check,66.76,6185.87,65.51,70.94,6.38,6197.68,Stayed,,
+CUST0068,Male,21,Yes,California,2,20,Yes,Yes,Yes,No,Cable,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card,56.24,4609.66,189.88,22.74,260.75,4703.27,Stayed,,
+CUST0069,Male,20,Yes,Florida,4,59,Yes,Yes,No phone service,No,Cable,No,Yes,No,Yes,No,No,Yes,No,One year,Yes,Bank transfer,96.22,5602.02,132.85,27.35,112.08,5608.6,Stayed,,
+CUST0070,Female,24,No,Texas,0,17,Yes,Yes,Yes,Yes,Cable,No,Yes,Yes,No,Yes,No,Yes,No,Two year,No,Bank transfer,50.74,7589.8,43.56,106.03,20.66,7672.93,Churned,Attitude,Price too high
+CUST0071,Male,34,No,Texas,5,40,No,No,No,Yes,Cable,No,No,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,114.37,8114.21,139.5,78.57,162.44,8215.72,Stayed,,
+CUST0072,Female,49,No,Illinois,5,16,No,No,No,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,No,Yes,Two year,Yes,Bank transfer,51.3,5689.41,49.11,146.87,220.56,6007.73,Stayed,,
+CUST0073,Male,30,Yes,Texas,5,27,Yes,No,No,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,85.0,8412.93,177.13,93.93,192.73,8522.46,Stayed,,
+CUST0074,Female,44,No,Illinois,5,42,No,No,Yes,No,Cable,No,Yes,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer,112.91,147.71,140.62,100.02,262.18,369.29,Stayed,,
+CUST0075,Male,40,Yes,New York,0,60,No,No,No phone service,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,Two year,Yes,Electronic check,60.61,510.58,82.94,109.14,255.09,791.87,Churned,Competitor,Price too high
+CUST0076,Male,48,No,Texas,1,8,No,No,No,No,Cable,No,Yes,No,No,No,No,No,No,One year,No,Mailed check,84.73,5273.2,24.47,46.45,62.52,5357.7,Stayed,,
+CUST0077,Female,20,Yes,Florida,3,3,Yes,Yes,No,Yes,Cable,No,Yes,Yes,No,Yes,No,No,Yes,Two year,Yes,Credit card,119.72,8905.35,126.09,54.8,181.03,9015.09,Churned,Attitude,Lack of features
+CUST0078,Female,73,No,Florida,1,63,No,Yes,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,103.94,6456.6,155.0,64.26,45.6,6411.46,Stayed,,
+CUST0079,Male,55,Yes,Illinois,4,34,Yes,Yes,No phone service,Yes,Cable,No,No,Yes,Yes,Yes,No,Yes,No,Two year,No,Mailed check,78.95,2415.14,99.91,25.22,128.7,2469.15,Stayed,,
+CUST0080,Male,33,Yes,New York,1,54,Yes,No,No phone service,No,DSL,Yes,Yes,No,No,No,No,No,Yes,One year,No,Electronic check,42.38,3914.52,63.11,49.17,217.76,4118.34,Churned,Attitude,Competitor had better devices
+CUST0081,Female,19,No,New York,0,31,No,Yes,No phone service,Yes,Fiber optic,No,Yes,No,No,No,Yes,Yes,No,Month-to-month,No,Mailed check,57.14,957.19,115.61,9.71,136.54,987.83,Stayed,,
+CUST0082,Male,34,No,Florida,1,38,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,59.88,5856.02,168.16,41.1,41.03,5769.99,Churned,Dissatisfaction,Attitude of support person
+CUST0083,Male,18,Yes,New York,1,39,No,No,No,Yes,Fiber optic,No,Yes,No,No,No,No,Yes,No,Two year,Yes,Mailed check,86.23,3042.71,73.96,61.38,248.83,3278.96,Churned,Attitude,Don’t know
+CUST0084,Female,55,No,New York,3,11,Yes,Yes,No phone service,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,Yes,Yes,One year,No,Electronic check,36.1,5514.09,17.7,26.82,93.49,5616.7,Churned,Attitude,Competitor had better devices
+CUST0085,Male,29,Yes,California,5,36,No,Yes,No,Yes,Cable,Yes,No,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,110.21,8243.63,4.25,109.65,167.61,8516.64,Churned,Other,Attitude of support person
+CUST0086,Male,34,Yes,California,1,48,Yes,Yes,No,No,Cable,No,No,Yes,Yes,Yes,No,No,Yes,One year,No,Mailed check,108.81,1229.58,68.59,142.98,123.0,1426.97,Churned,Price,Lack of features
+CUST0087,Female,67,No,California,0,42,No,Yes,No,Yes,Cable,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer,84.13,2780.93,78.86,62.76,285.35,3050.18,Churned,Attitude,Network reliability
+CUST0088,Female,77,Yes,California,2,72,No,Yes,No phone service,No,DSL,No,No,Yes,Yes,Yes,Yes,No,No,Month-to-month,No,Bank transfer,72.97,8797.1,78.18,144.43,27.64,8890.99,Stayed,,
+CUST0089,Female,57,Yes,New York,2,20,No,Yes,No,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Mailed check,80.9,3867.56,37.74,9.32,151.26,3990.4,Stayed,,
+CUST0090,Male,46,No,Texas,4,49,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,One year,No,Credit card,85.26,4142.96,187.7,59.12,2.85,4017.23,Churned,Competitor,Price too high
+CUST0091,Female,38,Yes,Texas,1,24,No,No,No,Yes,Cable,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,93.5,4622.97,143.76,115.41,168.18,4762.8,Stayed,,
+CUST0092,Male,63,Yes,Illinois,2,21,Yes,No,No phone service,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Two year,Yes,Credit card,72.36,4963.31,79.48,93.5,119.14,5096.47,Churned,Other,Don’t know
+CUST0093,Male,31,Yes,California,3,54,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,No,Two year,No,Electronic check,63.49,534.22,141.54,99.11,256.11,747.9,Churned,Other,Attitude of support person
+CUST0094,Female,63,No,New York,4,33,No,Yes,No phone service,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,One year,Yes,Electronic check,56.48,8243.23,180.28,94.23,34.86,8192.04,Stayed,,
+CUST0095,Female,42,No,Illinois,4,33,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,112.24,824.26,193.0,46.08,151.93,829.27,Churned,Competitor,Moving
+CUST0096,Female,70,No,Illinois,2,12,Yes,No,No phone service,No,Cable,Yes,Yes,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card,39.04,3974.25,182.43,10.66,44.71,3847.19,Churned,Attitude,Attitude of support person
+CUST0097,Male,77,Yes,Illinois,1,65,No,No,No,No,DSL,Yes,No,No,No,Yes,No,No,Yes,Two year,No,Bank transfer,61.1,6696.46,79.07,111.94,204.52,6933.85,Churned,Other,Moving
+CUST0098,Male,35,Yes,Texas,5,4,No,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,One year,Yes,Mailed check,99.75,830.97,101.95,17.62,60.63,807.27,Churned,Dissatisfaction,Lack of features
+CUST0099,Male,37,Yes,Florida,5,60,No,Yes,No,Yes,DSL,Yes,Yes,Yes,No,Yes,No,No,Yes,One year,No,Credit card,68.73,3648.52,99.27,127.22,55.39,3731.86,Churned,Dissatisfaction,Moving
+CUST0100,Female,33,No,Texas,0,47,Yes,No,No phone service,No,Cable,Yes,No,No,No,Yes,Yes,Yes,No,One year,No,Credit card,104.13,7412.53,170.61,54.18,167.22,7463.32,Stayed,,
+CUST0101,Female,36,No,Illinois,3,42,No,No,No phone service,Yes,Fiber optic,Yes,No,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,52.2,8097.97,98.06,142.05,109.35,8251.31,Stayed,,
+CUST0102,Female,37,Yes,Florida,3,36,No,Yes,Yes,Yes,Cable,No,Yes,Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,60.89,8715.36,72.39,134.51,60.44,8837.92,Churned,Attitude,Attitude of support person
+CUST0103,Female,57,Yes,Florida,3,10,Yes,No,No phone service,No,No,No,No,No,Yes,No,No,Yes,No,Two year,Yes,Mailed check,45.86,5226.47,118.85,96.78,22.78,5227.18,Stayed,,
+CUST0104,Female,47,Yes,Florida,1,70,Yes,No,No phone service,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,One year,No,Credit card,113.86,5034.13,28.34,71.25,78.55,5155.59,Stayed,,
+CUST0105,Male,47,No,Florida,2,16,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card,39.42,566.98,87.03,37.46,97.92,615.33,Churned,Attitude,Lack of features
+CUST0106,Female,48,No,California,2,10,No,Yes,No,No,Cable,No,Yes,Yes,No,Yes,No,No,No,Two year,Yes,Electronic check,67.75,7015.24,131.76,70.09,146.41,7099.98,Stayed,,
+CUST0107,Female,42,No,Florida,4,14,No,Yes,No phone service,No,Fiber optic,Yes,Yes,No,No,No,No,No,Yes,One year,Yes,Credit card,26.09,5165.13,95.92,120.62,25.57,5215.4,Stayed,,
+CUST0108,Female,38,No,Illinois,3,55,No,No,No phone service,Yes,Cable,Yes,Yes,No,No,Yes,No,No,No,One year,Yes,Electronic check,52.73,8562.4,127.98,62.66,202.29,8699.37,Churned,Price,Don’t know
+CUST0109,Female,31,No,New York,2,66,No,No,No phone service,Yes,Cable,Yes,Yes,No,No,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,32.84,5656.1,8.3,27.39,70.41,5745.6,Churned,Other,Attitude of support person
+CUST0110,Female,45,Yes,Illinois,3,47,No,No,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,91.66,7960.77,153.03,145.14,212.89,8165.77,Stayed,,
+CUST0111,Male,46,No,Illinois,1,7,No,No,No,No,DSL,No,No,Yes,No,Yes,Yes,Yes,No,One year,Yes,Bank transfer,38.58,2859.0,70.29,23.03,133.34,2945.08,Stayed,,
+CUST0112,Female,30,No,New York,2,35,Yes,No,No phone service,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Two year,No,Mailed check,35.86,8096.25,90.21,14.54,293.17,8313.75,Stayed,,
+CUST0113,Male,62,Yes,Illinois,3,17,Yes,No,No phone service,Yes,No,Yes,No,No,Yes,No,No,Yes,No,One year,Yes,Mailed check,64.6,5978.35,145.26,132.14,75.8,6041.03,Stayed,,
+CUST0114,Female,68,No,Florida,1,58,Yes,No,No,No,DSL,Yes,Yes,No,No,No,Yes,No,No,Two year,Yes,Mailed check,64.14,4051.19,150.45,89.02,4.31,3994.07,Stayed,,
+CUST0115,Female,78,Yes,Illinois,4,67,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,57.34,4328.63,4.93,56.26,40.95,4420.91,Churned,Attitude,Moving
+CUST0116,Male,69,Yes,Texas,0,18,Yes,No,No phone service,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Bank transfer,28.93,4092.48,69.84,144.75,112.26,4279.65,Stayed,,
+CUST0117,Female,18,Yes,Texas,3,14,No,No,No,No,Fiber optic,Yes,No,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer,41.76,6191.45,199.32,134.13,192.72,6318.98,Stayed,,
+CUST0118,Female,36,Yes,New York,0,6,No,Yes,No phone service,No,No,No,No,No,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,60.62,2396.12,45.37,68.14,202.95,2621.84,Churned,Attitude,Attitude of support person
+CUST0119,Male,28,No,Texas,2,60,No,No,No,No,Cable,No,No,Yes,No,No,Yes,Yes,No,Two year,Yes,Credit card,48.43,2797.24,75.78,52.85,260.72,3035.03,Churned,Attitude,Don’t know
+CUST0120,Male,19,No,New York,5,16,Yes,No,No,No,Fiber optic,No,No,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer,110.06,508.33,1.31,32.75,40.38,580.15,Stayed,,
+CUST0121,Female,64,Yes,California,1,70,Yes,Yes,No,Yes,Cable,No,No,No,Yes,Yes,Yes,Yes,Yes,One year,No,Bank transfer,52.26,8973.21,149.91,80.95,254.32,9158.57,Churned,Price,Competitor had better devices
+CUST0122,Male,44,Yes,New York,3,7,Yes,No,No,Yes,Fiber optic,Yes,No,No,Yes,Yes,Yes,No,Yes,One year,No,Electronic check,55.53,1227.67,81.95,148.85,136.96,1431.53,Churned,Competitor,Don’t know
+CUST0123,Female,67,No,New York,2,31,Yes,Yes,No phone service,Yes,Fiber optic,Yes,No,Yes,No,No,No,Yes,No,Month-to-month,Yes,Credit card,106.98,1882.56,10.46,65.17,114.35,2051.62,Churned,Dissatisfaction,Attitude of support person
+CUST0124,Female,59,Yes,Florida,2,25,No,Yes,No phone service,No,Cable,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,48.59,2948.96,186.45,100.08,279.82,3142.41,Churned,Competitor,Don’t know
+CUST0125,Male,28,No,California,2,22,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,One year,No,Credit card,117.55,1554.67,142.35,68.54,176.1,1656.96,Churned,Competitor,Price too high
+CUST0126,Female,31,Yes,New York,1,46,Yes,Yes,No phone service,Yes,Cable,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer,65.38,7358.85,142.26,86.39,118.62,7421.6,Stayed,,
+CUST0127,Male,70,No,California,4,2,Yes,Yes,No phone service,No,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,75.7,4275.25,151.54,23.29,220.1,4367.1,Stayed,,
+CUST0128,Female,28,Yes,Florida,1,24,No,No,No,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Yes,Yes,One year,No,Credit card,94.81,8737.09,177.15,93.52,191.04,8844.5,Stayed,,
+CUST0129,Female,67,Yes,Florida,5,51,Yes,Yes,Yes,Yes,Cable,Yes,Yes,Yes,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,30.46,8807.26,181.95,99.35,166.05,8890.71,Churned,Other,Don’t know
+CUST0130,Male,45,Yes,California,3,49,Yes,No,No phone service,Yes,Fiber optic,No,Yes,No,No,Yes,No,Yes,Yes,One year,Yes,Mailed check,109.24,7596.43,53.95,0.12,245.62,7788.22,Stayed,,
+CUST0131,Female,32,Yes,Illinois,2,4,No,No,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Yes,Yes,One year,No,Credit card,113.2,3667.82,179.93,77.14,180.87,3745.9,Stayed,,
+CUST0132,Male,61,Yes,Texas,1,37,Yes,No,No phone service,Yes,Cable,No,No,Yes,No,No,No,No,No,Two year,Yes,Mailed check,29.85,1529.14,124.92,47.54,195.43,1647.19,Churned,Competitor,Lack of features
+CUST0133,Male,65,Yes,Florida,4,35,No,No,No phone service,Yes,Cable,No,No,No,Yes,Yes,No,Yes,No,Two year,Yes,Credit card,119.89,8760.68,135.45,129.6,3.14,8757.97,Churned,Attitude,Attitude of support person
+CUST0134,Male,45,Yes,Florida,2,28,No,Yes,No phone service,No,Cable,Yes,Yes,No,No,No,No,Yes,No,Two year,Yes,Mailed check,93.0,8770.6,118.12,47.88,115.22,8815.58,Churned,Other,Competitor had better devices
+CUST0135,Female,37,No,Texas,4,33,No,Yes,No,Yes,DSL,No,No,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,32.31,5459.46,32.62,11.0,219.72,5657.56,Churned,Dissatisfaction,Price too high
+CUST0136,Female,68,Yes,Illinois,5,44,Yes,Yes,No,No,Cable,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card,91.68,7549.29,52.41,1.47,22.77,7521.12,Churned,Attitude,Network reliability
+CUST0137,Male,27,Yes,California,1,52,Yes,Yes,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,No,No,No,Two year,Yes,Electronic check,26.38,1925.37,160.43,133.7,43.83,1942.47,Churned,Other,Competitor had better devices
+CUST0138,Female,70,No,California,0,54,Yes,Yes,No,Yes,Cable,Yes,No,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,93.8,7423.69,151.19,92.63,106.4,7471.53,Churned,Other,Attitude of support person
+CUST0139,Male,38,Yes,New York,3,30,No,No,No,Yes,Cable,Yes,Yes,Yes,No,Yes,Yes,Yes,No,One year,Yes,Electronic check,45.96,2981.97,187.74,109.11,286.06,3189.4,Stayed,,
+CUST0140,Female,50,No,Texas,2,1,Yes,No,No phone service,No,Cable,Yes,No,No,No,No,Yes,No,Yes,Two year,Yes,Mailed check,83.33,8534.78,62.09,126.47,263.59,8862.75,Stayed,,
+CUST0141,Male,78,No,Florida,0,54,Yes,No,No phone service,Yes,Cable,No,No,Yes,No,No,Yes,No,No,Two year,Yes,Electronic check,93.54,5048.58,192.99,143.61,199.57,5198.77,Churned,Attitude,Attitude of support person
+CUST0142,Male,24,Yes,California,5,27,No,Yes,Yes,Yes,Cable,Yes,No,No,No,Yes,Yes,No,No,Two year,No,Mailed check,57.73,2074.9,33.15,98.68,52.46,2192.89,Stayed,,
+CUST0143,Female,64,No,New York,3,21,No,Yes,No phone service,No,Cable,No,No,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card,83.48,7947.5,79.14,34.96,244.17,8147.49,Stayed,,
+CUST0144,Male,52,No,Florida,1,57,Yes,Yes,No phone service,No,Fiber optic,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,77.6,7070.69,151.41,115.53,85.43,7120.24,Churned,Other,Network reliability
+CUST0145,Female,66,Yes,California,5,69,Yes,No,No,No,Fiber optic,Yes,No,No,No,No,No,No,No,Two year,No,Mailed check,43.13,5499.78,74.89,95.68,264.83,5785.4,Stayed,,
+CUST0146,Female,18,No,California,3,69,No,Yes,No phone service,No,No,Yes,No,Yes,Yes,No,No,No,No,Two year,No,Credit card,64.31,2318.84,196.64,65.6,71.31,2259.11,Stayed,,
+CUST0147,Female,28,No,Illinois,5,42,Yes,No,No phone service,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Credit card,64.6,6130.43,30.98,75.22,117.47,6292.14,Stayed,,
+CUST0148,Male,78,Yes,Florida,3,6,Yes,Yes,No,No,DSL,Yes,No,Yes,No,No,Yes,No,No,One year,No,Credit card,113.69,7232.96,168.43,29.35,291.62,7385.5,Stayed,,
+CUST0149,Female,69,Yes,Texas,3,15,No,No,No phone service,No,Cable,Yes,Yes,No,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,91.22,2127.21,139.89,76.43,228.57,2292.32,Churned,Price,Competitor had better devices
+CUST0150,Female,75,No,New York,1,28,No,Yes,No,Yes,DSL,Yes,No,No,No,Yes,No,No,Yes,One year,No,Electronic check,59.14,7412.88,197.69,17.09,16.08,7248.36,Stayed,,
+CUST0151,Male,23,No,California,4,48,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,One year,No,Electronic check,108.37,5259.69,177.33,77.84,118.83,5279.03,Churned,Price,Price too high
+CUST0152,Female,55,Yes,Texas,2,56,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer,40.46,7015.37,61.66,22.94,169.67,7146.32,Churned,Attitude,Don’t know
+CUST0153,Female,73,No,Florida,0,13,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,89.87,4876.25,194.54,45.04,296.34,5023.09,Stayed,,
+CUST0154,Male,37,No,Illinois,1,64,Yes,No,No phone service,No,Fiber optic,Yes,No,Yes,No,No,Yes,Yes,Yes,Two year,No,Electronic check,44.09,4051.67,84.64,75.84,124.9,4167.77,Churned,Other,Don’t know
+CUST0155,Male,73,Yes,Illinois,5,37,Yes,Yes,No phone service,No,Fiber optic,No,Yes,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer,103.5,8079.51,184.63,82.41,278.87,8256.16,Stayed,,
+CUST0156,Male,72,No,California,1,19,Yes,Yes,No phone service,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Month-to-month,No,Bank transfer,68.19,1436.62,75.81,74.11,272.44,1707.36,Stayed,,
+CUST0157,Female,52,Yes,Florida,0,10,No,No,No phone service,Yes,Cable,No,No,Yes,Yes,No,Yes,Yes,No,One year,Yes,Credit card,70.82,6706.72,5.27,30.55,52.69,6784.69,Stayed,,
+CUST0158,Female,58,No,New York,4,63,No,Yes,No phone service,Yes,DSL,No,No,Yes,No,Yes,Yes,No,No,Two year,Yes,Mailed check,40.48,2737.16,140.3,102.12,34.01,2732.99,Churned,Other,Competitor had better devices
+CUST0159,Female,23,No,California,3,14,Yes,No,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Mailed check,48.09,3386.64,111.55,73.78,197.61,3546.48,Churned,Price,Network reliability
+CUST0160,Male,47,No,Florida,5,65,Yes,Yes,No,Yes,Cable,Yes,Yes,No,Yes,Yes,Yes,No,Yes,One year,No,Electronic check,112.8,825.98,36.86,51.9,82.57,923.59,Stayed,,
+CUST0161,Male,76,Yes,California,4,40,No,No,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,71.77,733.8,7.93,140.91,142.11,1008.89,Stayed,,
+CUST0162,Female,61,No,California,4,3,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,One year,No,Bank transfer,109.92,6514.84,53.27,15.73,156.02,6633.32,Churned,Other,Attitude of support person
+CUST0163,Female,25,Yes,Illinois,0,9,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,One year,Yes,Electronic check,48.3,2773.47,48.56,149.24,26.5,2900.65,Stayed,,
+CUST0164,Female,50,Yes,Texas,2,24,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer,51.77,4962.31,150.71,118.91,279.72,5210.23,Stayed,,
+CUST0165,Female,50,Yes,Illinois,1,59,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,One year,Yes,Credit card,53.78,6902.03,49.79,129.85,172.79,7154.88,Stayed,,
+CUST0166,Male,78,No,California,0,19,No,Yes,No,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,71.57,8044.3,187.26,108.77,111.57,8077.38,Churned,Price,Moving
+CUST0167,Male,57,Yes,New York,3,37,No,No,No,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer,47.47,7254.8,192.9,142.97,40.77,7245.64,Stayed,,
+CUST0168,Male,20,No,Florida,0,59,Yes,Yes,No phone service,No,DSL,Yes,No,Yes,Yes,No,No,No,No,One year,Yes,Electronic check,77.07,8177.19,57.35,53.87,242.54,8416.25,Churned,Dissatisfaction,Lack of features
+CUST0169,Male,68,No,California,0,12,Yes,No,No phone service,Yes,DSL,No,No,Yes,No,No,Yes,No,Yes,One year,Yes,Mailed check,80.16,3243.93,163.11,84.11,257.71,3422.64,Churned,Dissatisfaction,Lack of features
+CUST0170,Male,64,Yes,Illinois,4,23,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,One year,No,Mailed check,68.05,7428.75,24.53,104.17,222.51,7730.9,Churned,Price,Competitor had better devices
+CUST0171,Female,72,Yes,New York,4,50,Yes,Yes,No phone service,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card,49.78,5689.25,118.68,16.46,268.83,5855.86,Churned,Other,Attitude of support person
+CUST0172,Female,68,No,New York,0,64,Yes,Yes,No,Yes,Fiber optic,Yes,No,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,25.1,5043.86,36.6,61.99,104.49,5173.74,Churned,Competitor,Don’t know
+CUST0173,Male,33,Yes,New York,1,50,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,One year,Yes,Mailed check,118.22,6000.98,102.72,132.95,10.46,6041.67,Stayed,,
+CUST0174,Female,75,No,New York,1,44,No,Yes,No phone service,No,Cable,No,No,Yes,No,Yes,No,No,No,Two year,Yes,Credit card,20.66,6184.4,77.97,141.82,99.52,6347.77,Churned,Dissatisfaction,Lack of features
+CUST0175,Female,57,Yes,Texas,1,66,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer,37.82,4864.17,187.11,83.22,212.15,4972.43,Stayed,,
+CUST0176,Male,38,Yes,Florida,0,10,Yes,No,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Yes,Yes,One year,Yes,Credit card,62.7,2880.15,30.42,12.4,121.52,2983.65,Stayed,,
+CUST0177,Male,57,No,Illinois,4,38,No,Yes,No phone service,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Month-to-month,No,Credit card,98.31,1376.73,162.14,54.34,26.67,1295.6,Churned,Competitor,Price too high
+CUST0178,Male,37,No,California,4,20,Yes,No,No phone service,Yes,DSL,Yes,Yes,Yes,No,Yes,No,No,Yes,Two year,Yes,Electronic check,91.08,7462.01,88.14,137.48,216.56,7727.91,Stayed,,
+CUST0179,Male,40,Yes,Illinois,0,3,Yes,Yes,No,No,Fiber optic,No,No,Yes,Yes,No,Yes,Yes,No,Month-to-month,No,Bank transfer,37.97,2376.06,159.22,125.59,298.2,2640.63,Churned,Price,Attitude of support person
+CUST0180,Female,18,No,New York,1,65,No,Yes,No phone service,No,Cable,Yes,Yes,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,47.02,6365.37,139.51,89.45,159.1,6474.41,Stayed,,
+CUST0181,Male,24,Yes,Illinois,3,22,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,Two year,No,Credit card,111.67,392.88,65.07,119.84,103.4,551.05,Stayed,,
+CUST0182,Male,55,No,New York,4,20,No,Yes,Yes,Yes,Cable,No,Yes,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,61.57,3373.43,100.76,103.56,59.63,3435.86,Stayed,,
+CUST0183,Female,36,No,California,4,10,Yes,No,Yes,No,Fiber optic,Yes,No,No,Yes,No,No,No,Yes,Two year,No,Mailed check,34.21,2546.74,38.42,146.02,131.81,2786.15,Stayed,,
+CUST0184,Male,67,Yes,New York,5,59,Yes,Yes,No,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,No,No,One year,Yes,Electronic check,110.75,7203.63,84.57,44.46,190.18,7353.7,Stayed,,
+CUST0185,Female,70,Yes,Texas,5,26,No,Yes,No,No,DSL,Yes,No,Yes,No,Yes,Yes,No,Yes,Month-to-month,No,Bank transfer,94.02,2694.47,26.08,31.33,271.35,2971.07,Stayed,,
+CUST0186,Female,66,Yes,Florida,4,14,Yes,No,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Electronic check,115.62,3168.35,17.51,4.95,232.17,3387.96,Stayed,,
+CUST0187,Female,20,Yes,California,2,31,No,No,No phone service,No,No,No,No,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,85.93,4729.0,143.28,64.76,184.32,4834.8,Churned,Dissatisfaction,Price too high
+CUST0188,Male,51,No,New York,2,58,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,One year,No,Credit card,97.7,3543.51,66.06,37.44,27.07,3541.96,Churned,Attitude,Don’t know
+CUST0189,Male,73,No,California,3,8,No,Yes,No phone service,Yes,Cable,Yes,No,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Credit card,75.6,1931.16,193.57,87.35,58.46,1883.4,Churned,Other,Don’t know
+CUST0190,Female,61,No,Illinois,1,2,Yes,Yes,No phone service,Yes,DSL,Yes,No,No,No,Yes,No,No,Yes,Two year,No,Mailed check,75.16,4630.79,0.91,126.78,139.79,4896.45,Churned,Dissatisfaction,Network reliability
+CUST0191,Male,48,No,California,0,66,No,No,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,38.76,7598.15,148.95,20.42,117.98,7587.6,Stayed,,
+CUST0192,Female,57,No,New York,2,14,Yes,Yes,No,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,No,No,One year,No,Electronic check,109.22,202.94,65.2,29.7,201.39,368.83,Stayed,,
+CUST0193,Male,77,No,California,1,27,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Two year,No,Credit card,96.27,8494.98,44.93,142.06,160.32,8752.43,Churned,Other,Network reliability
+CUST0194,Male,68,Yes,California,3,6,No,No,No,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer,57.05,1936.1,57.69,82.37,222.31,2183.09,Stayed,,
+CUST0195,Female,36,No,Illinois,1,67,Yes,Yes,No phone service,No,DSL,Yes,Yes,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,59.89,3113.65,42.52,61.32,65.76,3198.21,Stayed,,
+CUST0196,Female,31,No,New York,5,27,Yes,Yes,No phone service,No,No,No,No,No,No,Yes,Yes,No,Yes,Two year,No,Credit card,88.79,7001.35,2.48,74.86,4.71,7078.44,Churned,Competitor,Moving
+CUST0197,Female,58,No,California,4,62,Yes,No,No phone service,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer,21.77,3067.68,2.98,136.84,218.93,3420.47,Stayed,,
+CUST0198,Male,61,No,California,4,2,No,No,No phone service,Yes,No,Yes,No,Yes,Yes,No,No,No,No,One year,Yes,Bank transfer,80.03,1099.34,39.44,143.83,198.89,1402.62,Churned,Competitor,Don’t know
+CUST0199,Male,54,No,Texas,0,29,No,No,No phone service,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Month-to-month,No,Bank transfer,107.2,477.13,82.04,12.82,53.57,461.48,Churned,Other,Attitude of support person
+CUST0200,Male,36,Yes,Texas,1,6,Yes,No,No,Yes,Fiber optic,No,No,No,No,Yes,No,Yes,No,One year,No,Mailed check,95.64,4306.4,160.89,80.15,9.94,4235.6,Stayed,,
+CUST0201,Male,35,No,Florida,5,62,No,No,No,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Two year,Yes,Mailed check,73.4,6684.07,102.37,89.66,243.68,6915.04,Churned,Price,Network reliability
+CUST0202,Male,63,Yes,California,4,70,Yes,Yes,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,No,Yes,Two year,No,Electronic check,70.48,6624.82,96.5,43.97,185.43,6757.72,Stayed,,
+CUST0203,Female,52,No,Florida,2,40,Yes,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,Two year,No,Electronic check,50.44,2465.43,85.5,19.61,207.88,2607.42,Churned,Competitor,Network reliability
+CUST0204,Female,41,Yes,Florida,2,46,No,Yes,Yes,No,Cable,No,No,No,No,Yes,Yes,No,No,Two year,No,Bank transfer,56.52,4207.79,36.55,120.07,87.65,4378.96,Churned,Other,Lack of features
+CUST0205,Female,72,No,Texas,1,58,Yes,No,No phone service,No,DSL,Yes,Yes,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card,81.37,2668.72,28.05,43.91,246.54,2931.12,Churned,Price,Competitor had better devices
+CUST0206,Female,55,Yes,California,1,12,Yes,Yes,No phone service,No,DSL,Yes,Yes,Yes,No,Yes,Yes,No,No,One year,Yes,Credit card,102.47,3257.16,7.53,87.94,267.42,3604.99,Stayed,,
+CUST0207,Female,52,No,Illinois,2,39,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,One year,No,Mailed check,116.06,3977.49,74.36,13.01,114.85,4030.99,Stayed,,
+CUST0208,Female,73,No,California,5,5,No,Yes,No phone service,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,70.0,8923.29,194.47,50.15,247.26,9026.23,Stayed,,
+CUST0209,Female,61,No,Texas,3,39,Yes,Yes,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Yes,No,One year,Yes,Credit card,39.52,2020.29,57.2,41.38,181.18,2185.65,Stayed,,
+CUST0210,Female,49,No,Texas,0,28,No,Yes,No,No,Fiber optic,Yes,No,No,Yes,No,No,No,No,Two year,No,Bank transfer,88.51,8552.72,185.93,83.06,202.23,8652.08,Churned,Competitor,Don’t know
+CUST0211,Male,51,No,California,2,60,No,No,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,No,No,Two year,Yes,Credit card,33.91,792.36,79.1,55.54,7.17,775.97,Churned,Competitor,Moving
+CUST0212,Male,26,No,Illinois,0,18,Yes,No,No,Yes,DSL,No,Yes,No,No,No,No,Yes,Yes,One year,No,Credit card,105.67,8074.1,154.52,67.76,240.81,8228.15,Churned,Price,Network reliability
+CUST0213,Female,55,No,Florida,5,49,Yes,Yes,No,No,Fiber optic,Yes,No,No,Yes,Yes,No,No,No,Two year,Yes,Bank transfer,110.76,3141.36,17.46,45.38,38.96,3208.24,Stayed,,
+CUST0214,Female,50,Yes,New York,1,26,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Two year,No,Electronic check,91.15,8330.52,102.79,17.76,168.53,8414.02,Stayed,,
+CUST0215,Female,33,Yes,Illinois,4,36,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card,62.1,286.67,48.86,29.41,129.87,397.09,Stayed,,
+CUST0216,Male,68,Yes,Florida,4,50,Yes,Yes,No phone service,No,No,No,No,No,No,Yes,No,No,No,One year,No,Credit card,66.34,7384.53,109.64,89.03,185.05,7548.97,Stayed,,
+CUST0217,Female,38,No,Florida,0,35,No,No,Yes,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Credit card,69.11,855.35,160.33,48.61,16.79,760.42,Stayed,,
+CUST0218,Female,76,Yes,California,3,34,Yes,No,No,No,DSL,Yes,Yes,Yes,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,86.11,5785.83,11.78,67.37,161.18,6002.6,Churned,Attitude,Price too high
+CUST0219,Female,45,Yes,Illinois,4,36,No,Yes,No phone service,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Month-to-month,No,Bank transfer,87.98,7386.62,14.51,100.84,295.49,7768.44,Churned,Price,Lack of features
+CUST0220,Male,49,Yes,Texas,2,41,Yes,No,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,No,No,Month-to-month,No,Bank transfer,31.1,6999.38,95.55,39.05,274.14,7217.02,Churned,Dissatisfaction,Attitude of support person
+CUST0221,Female,36,No,California,1,38,Yes,No,No,No,DSL,No,No,No,No,No,No,Yes,Yes,Month-to-month,No,Bank transfer,92.72,4896.74,18.59,49.79,114.94,5042.88,Churned,Other,Don’t know
+CUST0222,Male,34,Yes,Texas,5,10,No,No,No phone service,No,DSL,No,Yes,No,No,Yes,No,No,No,One year,Yes,Mailed check,25.26,582.35,65.96,114.96,106.31,737.66,Churned,Competitor,Price too high
+CUST0223,Male,42,Yes,Florida,5,18,Yes,No,No,No,DSL,Yes,No,No,Yes,No,Yes,Yes,No,Month-to-month,No,Credit card,25.61,7033.75,58.16,80.11,247.17,7302.87,Stayed,,
+CUST0224,Male,55,No,Florida,1,45,Yes,No,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,63.04,365.1,121.99,24.65,8.93,276.69,Churned,Competitor,Price too high
+CUST0225,Female,63,No,California,4,29,No,No,No phone service,No,DSL,No,No,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer,76.9,5928.18,113.12,29.22,273.04,6117.32,Stayed,,
+CUST0226,Male,19,No,California,4,49,Yes,Yes,No phone service,No,No,Yes,No,No,No,Yes,No,Yes,Yes,Two year,No,Electronic check,89.25,421.74,144.3,136.42,167.93,581.79,Stayed,,
+CUST0227,Male,51,No,Florida,3,49,Yes,No,No,Yes,Fiber optic,No,No,Yes,No,No,No,No,Yes,One year,Yes,Electronic check,20.95,3442.7,138.22,82.49,231.11,3618.08,Churned,Attitude,Network reliability
+CUST0228,Male,68,Yes,Florida,1,33,No,No,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,No,Yes,Two year,No,Bank transfer,22.54,3237.82,157.58,130.4,213.48,3424.12,Churned,Other,Price too high
+CUST0229,Female,72,Yes,Florida,5,21,Yes,No,No phone service,No,No,No,No,No,Yes,Yes,No,Yes,Yes,One year,Yes,Mailed check,42.55,2741.07,100.88,1.28,236.07,2877.54,Stayed,,
+CUST0230,Female,18,No,Texas,2,45,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,No,One year,No,Bank transfer,25.42,6203.44,113.7,103.04,275.88,6468.66,Stayed,,
+CUST0231,Female,76,No,Florida,0,35,No,No,Yes,No,DSL,Yes,No,No,No,No,Yes,Yes,Yes,Two year,No,Bank transfer,98.39,7819.92,156.64,114.11,176.06,7953.45,Stayed,,
+CUST0232,Female,42,Yes,Illinois,3,37,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,Two year,Yes,Mailed check,77.47,6458.16,148.95,88.67,279.67,6677.55,Churned,Other,Moving
+CUST0233,Male,73,No,Florida,5,47,No,Yes,No,No,Cable,Yes,No,No,Yes,Yes,Yes,No,Yes,One year,No,Bank transfer,90.19,2931.57,25.34,139.47,59.8,3105.5,Churned,Other,Price too high
+CUST0234,Female,58,Yes,Texas,0,60,No,Yes,No,No,Fiber optic,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,79.31,7666.29,189.8,71.52,95.1,7643.11,Stayed,,
+CUST0235,Female,24,Yes,California,0,60,Yes,No,No phone service,Yes,Cable,Yes,No,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card,97.28,7352.93,7.19,86.51,45.02,7477.27,Churned,Competitor,Network reliability
+CUST0236,Female,20,Yes,Texas,0,33,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,Yes,Two year,Yes,Mailed check,73.39,5835.84,41.37,30.7,120.07,5945.24,Churned,Price,Network reliability
+CUST0237,Female,20,No,Illinois,4,69,No,Yes,No,No,Cable,Yes,No,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card,81.26,1251.77,67.93,43.44,80.6,1307.88,Churned,Dissatisfaction,Network reliability
+CUST0238,Female,43,Yes,Illinois,3,5,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,One year,Yes,Mailed check,106.16,4532.46,17.72,125.3,99.45,4739.49,Churned,Price,Don’t know
+CUST0239,Male,66,Yes,California,1,56,Yes,No,No phone service,No,No,Yes,No,No,No,No,No,Yes,No,One year,Yes,Credit card,88.06,6447.82,66.48,15.34,154.79,6551.47,Churned,Price,Don’t know
+CUST0240,Male,28,Yes,Florida,1,5,No,No,No phone service,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Mailed check,55.15,2235.88,19.86,116.72,227.14,2559.88,Churned,Price,Don’t know
+CUST0241,Male,62,Yes,Illinois,2,15,No,No,No,No,Fiber optic,No,No,Yes,Yes,No,Yes,No,No,One year,No,Electronic check,76.33,6486.59,54.37,49.53,269.94,6751.69,Stayed,,
+CUST0242,Female,59,No,California,4,71,Yes,Yes,No phone service,No,Fiber optic,No,Yes,No,No,No,Yes,No,Yes,Month-to-month,No,Bank transfer,38.27,1860.47,23.21,125.55,190.02,2152.83,Stayed,,
+CUST0243,Female,64,Yes,New York,5,29,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,One year,No,Credit card,22.21,8455.94,126.28,41.56,297.52,8668.74,Stayed,,
+CUST0244,Female,57,Yes,Florida,2,64,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,One year,Yes,Credit card,104.35,7815.57,48.0,74.87,163.48,8005.92,Stayed,,
+CUST0245,Male,31,Yes,Texas,3,65,Yes,Yes,No,Yes,Cable,Yes,Yes,Yes,No,Yes,No,No,Yes,Two year,Yes,Credit card,91.1,7342.31,199.03,2.61,154.84,7300.73,Churned,Other,Network reliability
+CUST0246,Male,65,No,Florida,0,19,No,Yes,No,No,Fiber optic,Yes,No,Yes,Yes,Yes,No,Yes,No,One year,No,Bank transfer,71.85,363.93,162.04,71.03,60.29,333.21,Stayed,,
+CUST0247,Male,58,Yes,California,4,16,Yes,Yes,No phone service,Yes,No,No,Yes,No,No,No,Yes,No,Yes,Month-to-month,No,Credit card,89.71,943.94,102.16,69.6,238.32,1149.7,Churned,Competitor,Competitor had better devices
+CUST0248,Male,70,Yes,California,5,8,Yes,Yes,Yes,Yes,DSL,No,No,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card,36.67,3498.4,185.04,77.78,204.49,3595.63,Stayed,,
+CUST0249,Female,21,No,New York,4,59,Yes,No,No,Yes,Fiber optic,Yes,Yes,No,Yes,No,Yes,Yes,No,Two year,No,Credit card,35.93,609.38,100.94,58.24,19.53,586.21,Stayed,,
+CUST0250,Female,65,Yes,Florida,3,41,Yes,No,No phone service,Yes,DSL,No,Yes,No,No,Yes,Yes,No,Yes,Two year,No,Credit card,57.72,8799.79,170.42,20.88,45.91,8696.16,Stayed,,
+CUST0251,Male,39,No,Texas,3,47,No,Yes,No phone service,Yes,DSL,Yes,No,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer,40.74,1192.57,60.13,102.47,29.39,1264.3,Churned,Dissatisfaction,Don’t know
+CUST0252,Female,79,No,Illinois,5,57,No,Yes,Yes,No,Cable,Yes,No,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,26.36,4980.52,114.22,66.42,154.31,5087.03,Churned,Price,Don’t know
+CUST0253,Male,33,Yes,Illinois,5,13,Yes,Yes,No,Yes,Cable,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,54.48,3513.68,61.35,108.81,230.32,3791.46,Stayed,,
+CUST0254,Female,26,Yes,California,5,46,No,Yes,No,No,DSL,No,No,Yes,No,No,No,Yes,Yes,Two year,Yes,Electronic check,94.57,5159.98,97.33,126.57,13.5,5202.72,Churned,Competitor,Network reliability
+CUST0255,Female,75,Yes,California,5,34,Yes,No,No phone service,No,Cable,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,41.61,8112.65,62.13,104.22,299.1,8453.84,Stayed,,
+CUST0256,Male,36,Yes,Illinois,5,13,Yes,No,Yes,No,Cable,Yes,No,No,Yes,Yes,Yes,Yes,No,One year,Yes,Bank transfer,42.08,3447.05,145.95,136.91,41.93,3479.94,Churned,Attitude,Network reliability
+CUST0257,Female,29,Yes,Illinois,5,38,No,Yes,No phone service,Yes,Cable,No,No,No,No,Yes,No,Yes,No,One year,No,Bank transfer,62.26,4206.69,74.03,29.42,199.4,4361.48,Stayed,,
+CUST0258,Female,56,No,New York,1,66,Yes,No,Yes,No,Cable,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,60.53,4653.3,173.36,102.39,11.41,4593.74,Stayed,,
+CUST0259,Male,66,No,New York,5,53,Yes,Yes,No phone service,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,No,No,Two year,Yes,Electronic check,62.16,5042.53,41.48,33.06,277.72,5311.83,Churned,Dissatisfaction,Lack of features
+CUST0260,Female,38,No,Texas,3,72,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,One year,No,Credit card,76.08,7299.05,88.7,46.09,145.53,7401.97,Stayed,,
+CUST0261,Male,42,Yes,Texas,2,2,Yes,No,No,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,No,No,One year,Yes,Mailed check,95.07,3335.72,2.18,14.33,194.36,3542.23,Churned,Attitude,Don’t know
+CUST0262,Female,59,No,Illinois,5,41,Yes,Yes,Yes,Yes,Cable,Yes,Yes,Yes,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,61.52,6794.19,45.12,61.13,34.92,6845.12,Churned,Attitude,Don’t know
+CUST0263,Female,69,Yes,Florida,1,21,Yes,No,Yes,No,Cable,No,No,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Bank transfer,36.09,4583.55,57.12,3.76,4.19,4534.38,Stayed,,
+CUST0264,Female,36,No,Texas,0,36,No,No,Yes,No,Cable,No,No,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer,77.32,2500.93,40.19,115.65,271.14,2847.53,Stayed,,
+CUST0265,Male,25,No,Florida,2,48,Yes,No,No phone service,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,No,Yes,One year,No,Bank transfer,116.05,291.27,138.72,138.88,294.57,586.0,Stayed,,
+CUST0266,Female,66,No,Texas,3,44,No,Yes,Yes,No,DSL,No,No,Yes,No,No,No,Yes,No,Two year,No,Bank transfer,105.63,2695.18,199.39,37.58,266.29,2799.66,Stayed,,
+CUST0267,Male,36,Yes,New York,2,57,No,Yes,No phone service,Yes,No,No,Yes,No,No,No,No,No,Yes,Two year,Yes,Mailed check,51.97,7635.38,184.17,52.9,131.68,7635.79,Churned,Other,Attitude of support person
+CUST0268,Female,65,No,New York,5,47,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer,38.34,4977.34,168.85,129.51,151.79,5089.79,Stayed,,
+CUST0269,Male,54,Yes,Florida,2,20,No,No,No phone service,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Yes,Yes,Two year,Yes,Credit card,77.12,8957.84,68.16,31.85,66.31,8987.84,Churned,Price,Lack of features
+CUST0270,Female,55,Yes,New York,0,23,Yes,Yes,No phone service,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Month-to-month,No,Mailed check,25.94,7555.53,116.52,33.43,154.83,7627.27,Stayed,,
+CUST0271,Female,73,Yes,Texas,2,11,Yes,No,Yes,No,Cable,Yes,Yes,No,No,No,No,Yes,Yes,One year,No,Mailed check,27.9,2791.7,1.83,24.21,30.38,2844.46,Churned,Other,Lack of features
+CUST0272,Male,21,No,New York,4,3,No,Yes,No phone service,No,No,Yes,No,No,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,105.03,3879.68,59.36,42.36,276.47,4139.15,Churned,Competitor,Competitor had better devices
+CUST0273,Male,18,No,Florida,4,28,Yes,No,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Electronic check,25.57,8937.03,26.83,20.27,79.9,9010.37,Churned,Other,Attitude of support person
+CUST0274,Female,72,No,Florida,5,26,Yes,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer,22.47,7284.67,128.88,56.38,91.23,7303.4,Stayed,,
+CUST0275,Female,30,No,New York,4,9,No,No,No,Yes,Fiber optic,No,Yes,No,No,No,Yes,No,Yes,Two year,Yes,Bank transfer,82.71,4656.49,20.04,140.49,15.03,4791.97,Stayed,,
+CUST0276,Male,19,Yes,Illinois,5,35,No,No,No phone service,Yes,DSL,Yes,No,No,No,Yes,No,No,Yes,One year,No,Credit card,91.35,5777.8,118.78,29.79,264.14,5952.95,Stayed,,
+CUST0277,Male,68,Yes,California,1,37,No,No,No phone service,No,DSL,Yes,No,Yes,No,No,No,Yes,Yes,One year,Yes,Mailed check,25.13,1367.84,179.42,100.08,30.79,1319.29,Stayed,,
+CUST0278,Female,19,Yes,Illinois,4,35,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,One year,No,Credit card,115.29,3262.15,74.19,13.3,272.07,3473.33,Churned,Attitude,Lack of features
+CUST0279,Female,64,Yes,Illinois,2,38,Yes,No,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Yes,Yes,One year,No,Credit card,71.11,5763.61,89.01,29.08,224.54,5928.22,Stayed,,
+CUST0280,Female,79,No,California,5,62,Yes,Yes,No phone service,Yes,Cable,Yes,Yes,Yes,No,No,No,No,No,One year,No,Credit card,51.15,461.07,129.94,134.24,250.16,715.53,Stayed,,
+CUST0281,Male,39,No,Illinois,4,70,No,Yes,No phone service,No,Cable,Yes,No,Yes,No,Yes,Yes,No,No,Two year,Yes,Credit card,44.15,3765.89,6.9,129.43,62.35,3950.77,Stayed,,
+CUST0282,Female,52,Yes,Florida,4,67,No,No,No phone service,Yes,DSL,No,Yes,No,No,Yes,No,Yes,No,One year,No,Bank transfer,75.49,1122.97,29.72,44.95,241.7,1379.9,Stayed,,
+CUST0283,Female,69,Yes,New York,3,57,No,No,No,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Yes,Yes,One year,Yes,Credit card,88.38,5252.13,135.68,66.67,21.43,5204.55,Stayed,,
+CUST0284,Male,29,Yes,Florida,1,7,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Two year,No,Electronic check,67.47,6994.09,93.66,95.22,94.4,7090.05,Churned,Dissatisfaction,Moving
+CUST0285,Female,28,No,Florida,4,62,No,No,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,No,Yes,One year,No,Mailed check,116.94,6306.86,152.82,133.47,34.19,6321.7,Churned,Dissatisfaction,Price too high
+CUST0286,Male,22,No,Illinois,0,10,Yes,Yes,No phone service,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,No,Yes,Two year,No,Bank transfer,93.75,8859.0,90.08,73.43,263.62,9105.97,Stayed,,
+CUST0287,Female,65,Yes,Texas,2,56,No,No,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer,79.13,733.89,164.72,126.44,14.08,709.69,Churned,Price,Moving
+CUST0288,Female,64,No,Texas,3,35,No,Yes,Yes,No,Cable,Yes,Yes,No,No,No,No,No,No,Two year,Yes,Bank transfer,91.32,6559.78,128.82,103.8,274.29,6809.05,Churned,Competitor,Network reliability
+CUST0289,Female,24,Yes,Texas,2,68,No,Yes,No phone service,No,Cable,No,Yes,Yes,No,No,Yes,No,No,One year,No,Electronic check,20.24,4972.8,138.88,61.71,296.41,5192.04,Churned,Other,Network reliability
+CUST0290,Female,73,No,Illinois,5,36,Yes,No,No phone service,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Two year,Yes,Bank transfer,22.34,8558.64,127.87,135.35,233.02,8799.14,Stayed,,
+CUST0291,Male,21,No,California,1,2,Yes,No,No phone service,No,Cable,No,Yes,No,Yes,No,Yes,Yes,No,Month-to-month,No,Bank transfer,26.0,5916.24,163.55,105.54,185.81,6044.04,Stayed,,
+CUST0292,Male,23,Yes,Texas,5,33,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,Two year,No,Mailed check,52.26,7121.17,17.81,92.7,109.68,7305.74,Stayed,,
+CUST0293,Male,78,Yes,Texas,0,15,No,No,No,No,Fiber optic,Yes,Yes,No,Yes,No,No,No,Yes,One year,Yes,Bank transfer,27.36,250.02,96.04,143.34,99.47,396.79,Stayed,,
+CUST0294,Male,29,Yes,New York,4,31,No,No,No phone service,Yes,Cable,No,Yes,No,Yes,Yes,Yes,No,No,One year,Yes,Credit card,78.13,5291.02,54.61,133.24,146.49,5516.14,Stayed,,
+CUST0295,Female,76,No,New York,5,67,No,Yes,No phone service,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,One year,No,Electronic check,106.13,1540.04,133.77,136.1,157.69,1700.06,Churned,Attitude,Don’t know
+CUST0296,Female,54,No,New York,4,48,No,No,No,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,No,No,Two year,Yes,Electronic check,81.79,6979.51,193.94,147.29,182.66,7115.52,Stayed,,
+CUST0297,Male,55,No,Texas,4,35,Yes,Yes,No phone service,No,Cable,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,44.82,5588.16,59.89,22.22,56.92,5607.41,Stayed,,
+CUST0298,Female,58,Yes,Texas,0,33,No,No,No phone service,No,Fiber optic,No,No,Yes,Yes,Yes,No,No,No,One year,Yes,Electronic check,89.82,4683.63,170.37,74.45,211.0,4798.71,Stayed,,
+CUST0299,Male,62,No,New York,0,35,Yes,Yes,No phone service,Yes,Cable,Yes,Yes,No,Yes,Yes,No,No,Yes,Two year,Yes,Credit card,39.08,4923.79,55.68,67.56,152.25,5087.92,Stayed,,
+CUST0300,Female,31,No,Illinois,3,34,Yes,Yes,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,No,Yes,One year,No,Electronic check,49.87,6897.51,100.71,72.19,126.45,6995.44,Stayed,,
+CUST0301,Female,32,No,Illinois,5,9,No,No,No phone service,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Yes,Yes,One year,No,Electronic check,20.68,5237.79,162.23,109.79,163.96,5349.31,Stayed,,
+CUST0302,Male,53,No,Illinois,4,23,Yes,Yes,No phone service,Yes,No,No,No,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer,57.95,5560.47,135.09,114.9,68.58,5608.86,Stayed,,
+CUST0303,Male,19,Yes,Illinois,0,64,Yes,No,No phone service,Yes,Cable,Yes,Yes,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer,46.26,5044.58,69.67,81.05,191.74,5247.7,Stayed,,
+CUST0304,Male,18,No,Illinois,3,24,No,Yes,No phone service,No,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Electronic check,99.5,8881.75,49.6,146.29,195.33,9173.77,Churned,Price,Price too high
+CUST0305,Female,71,Yes,Illinois,0,36,Yes,Yes,No phone service,Yes,Fiber optic,No,Yes,No,No,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer,72.11,4002.72,150.4,69.78,226.01,4148.11,Churned,Price,Moving
+CUST0306,Female,73,Yes,Texas,5,14,No,No,Yes,Yes,Cable,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,One year,No,Bank transfer,31.28,8230.3,130.16,132.89,76.56,8309.59,Stayed,,
+CUST0307,Female,66,No,New York,2,69,No,No,No phone service,No,Cable,No,Yes,No,Yes,Yes,Yes,No,Yes,Month-to-month,No,Credit card,68.96,7675.39,155.97,34.75,218.25,7772.42,Stayed,,
+CUST0308,Female,42,No,Illinois,0,4,Yes,Yes,No,No,Fiber optic,Yes,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,84.4,2982.83,6.13,20.74,62.35,3059.79,Churned,Competitor,Network reliability
+CUST0309,Female,49,No,Florida,5,19,Yes,No,No,No,DSL,Yes,No,Yes,No,Yes,No,No,No,Two year,Yes,Mailed check,29.71,6329.49,142.76,66.89,49.21,6302.83,Churned,Price,Lack of features
+CUST0310,Male,31,No,New York,2,20,Yes,Yes,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,No,Yes,One year,Yes,Electronic check,98.29,1368.64,90.1,45.99,19.38,1343.91,Churned,Competitor,Lack of features
+CUST0311,Male,76,Yes,New York,5,10,No,Yes,No phone service,Yes,Fiber optic,Yes,No,No,No,Yes,No,No,No,One year,No,Electronic check,57.83,4900.3,176.84,104.42,176.81,5004.69,Churned,Dissatisfaction,Attitude of support person
+CUST0312,Female,22,Yes,Illinois,2,52,Yes,Yes,No,Yes,DSL,No,No,Yes,Yes,No,No,Yes,Yes,One year,No,Credit card,46.0,3423.38,107.07,62.39,285.16,3663.86,Churned,Competitor,Don’t know
+CUST0313,Female,37,Yes,Illinois,1,46,Yes,Yes,No,No,Cable,Yes,No,Yes,No,Yes,No,No,Yes,Month-to-month,No,Mailed check,83.82,690.65,178.74,43.5,174.77,730.18,Stayed,,
+CUST0314,Male,23,Yes,California,5,13,No,No,No,Yes,Cable,Yes,Yes,Yes,No,No,No,Yes,Yes,Two year,No,Electronic check,32.21,2980.68,31.12,28.56,46.31,3024.43,Stayed,,
+CUST0315,Male,31,No,Florida,0,71,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,One year,No,Credit card,89.86,278.63,179.69,113.29,183.63,395.86,Churned,Other,Price too high
+CUST0316,Male,43,No,Florida,5,39,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,One year,No,Mailed check,61.87,5819.73,188.65,102.3,14.48,5747.86,Stayed,,
+CUST0317,Male,79,Yes,California,2,44,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,117.02,6026.86,89.14,92.99,296.72,6327.43,Churned,Other,Price too high
+CUST0318,Male,46,No,California,5,6,No,No,No phone service,No,Fiber optic,Yes,No,No,Yes,No,Yes,Yes,No,Month-to-month,No,Mailed check,119.51,4871.19,6.46,78.69,154.74,5098.16,Churned,Other,Moving
+CUST0319,Female,30,No,Florida,3,29,Yes,No,No phone service,No,Cable,Yes,No,Yes,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,23.26,7570.4,45.14,125.49,106.22,7756.97,Churned,Competitor,Price too high
+CUST0320,Female,45,Yes,Illinois,0,49,Yes,Yes,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,Yes,No,Two year,No,Electronic check,69.26,708.77,176.18,135.33,271.75,939.67,Churned,Attitude,Moving
+CUST0321,Female,50,No,California,1,27,No,No,No,No,Fiber optic,Yes,No,Yes,No,No,Yes,Yes,Yes,One year,Yes,Bank transfer,29.06,4120.77,114.2,6.72,290.75,4304.04,Churned,Attitude,Price too high
+CUST0322,Female,73,No,Florida,2,60,No,No,No,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card,52.88,983.25,180.61,31.74,69.67,904.05,Stayed,,
+CUST0323,Female,62,Yes,Florida,0,46,No,Yes,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Yes,No,Two year,No,Mailed check,105.73,7431.31,61.31,49.26,107.78,7527.04,Churned,Dissatisfaction,Lack of features
+CUST0324,Male,27,Yes,Illinois,1,22,No,No,No,Yes,DSL,Yes,No,Yes,Yes,No,No,No,Yes,Two year,No,Credit card,106.38,8173.76,110.44,79.78,164.37,8307.47,Stayed,,
+CUST0325,Male,32,No,Florida,4,2,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Two year,No,Mailed check,97.29,3814.35,80.08,127.46,247.34,4109.07,Churned,Price,Don’t know
+CUST0326,Female,68,Yes,New York,5,56,Yes,Yes,No phone service,Yes,DSL,No,No,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,115.08,2897.76,104.65,88.74,170.11,3051.96,Churned,Dissatisfaction,Competitor had better devices
+CUST0327,Female,30,No,Texas,3,53,No,No,No phone service,No,DSL,Yes,No,No,Yes,No,No,Yes,Yes,One year,Yes,Mailed check,27.98,8240.8,101.87,33.77,14.34,8187.04,Stayed,,
+CUST0328,Female,71,Yes,New York,0,61,No,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Bank transfer,62.66,4059.22,40.33,50.29,129.09,4198.27,Stayed,,
+CUST0329,Male,36,No,Illinois,3,51,Yes,No,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,91.04,5213.41,47.37,21.73,49.86,5237.63,Stayed,,
+CUST0330,Female,60,No,California,0,70,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer,70.92,5087.48,118.91,9.75,61.01,5039.33,Stayed,,
+CUST0331,Male,75,No,Texas,2,19,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Two year,Yes,Credit card,93.8,1835.45,22.79,123.91,96.09,2032.66,Stayed,,
+CUST0332,Female,27,Yes,California,5,35,No,Yes,No phone service,No,DSL,Yes,Yes,No,Yes,Yes,Yes,No,No,Two year,No,Electronic check,24.21,7583.3,120.68,147.4,272.14,7882.16,Churned,Other,Network reliability
+CUST0333,Male,48,No,Texas,3,70,Yes,No,No,Yes,Cable,Yes,No,Yes,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer,85.91,1514.12,87.28,7.99,146.82,1581.65,Churned,Price,Attitude of support person
+CUST0334,Female,76,Yes,Florida,1,1,Yes,Yes,No,No,Fiber optic,No,Yes,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer,99.23,1244.03,76.24,87.8,196.67,1452.26,Churned,Attitude,Attitude of support person
+CUST0335,Male,49,No,California,3,16,Yes,No,No,Yes,Cable,Yes,No,No,No,Yes,Yes,Yes,No,One year,No,Credit card,91.26,1016.31,37.74,17.59,196.92,1193.08,Stayed,,
+CUST0336,Female,40,Yes,New York,0,22,Yes,No,Yes,No,DSL,No,Yes,No,Yes,Yes,No,No,Yes,Two year,Yes,Mailed check,56.94,3148.53,139.17,65.94,274.79,3350.09,Churned,Attitude,Network reliability
+CUST0337,Male,46,Yes,Florida,0,69,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,One year,Yes,Credit card,78.76,5479.38,21.64,26.02,118.99,5602.75,Stayed,,
+CUST0338,Male,34,No,New York,1,7,No,Yes,No,Yes,Fiber optic,No,No,No,No,Yes,Yes,Yes,No,One year,No,Bank transfer,21.83,6685.48,162.99,67.49,266.86,6856.84,Churned,Price,Don’t know
+CUST0339,Female,70,Yes,Texas,0,24,Yes,No,No phone service,No,Cable,No,No,No,Yes,No,No,No,No,Two year,Yes,Mailed check,31.34,8232.15,105.94,115.15,248.96,8490.32,Churned,Attitude,Price too high
+CUST0340,Female,69,No,Texas,2,1,Yes,No,Yes,No,Cable,No,No,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer,30.95,6741.86,131.55,32.18,262.0,6904.49,Stayed,,
+CUST0341,Male,74,Yes,California,3,50,Yes,No,No,Yes,Cable,No,Yes,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,38.19,8495.19,118.8,72.36,132.97,8581.72,Stayed,,
+CUST0342,Male,31,No,California,3,29,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,One year,No,Credit card,68.06,3832.88,102.83,36.77,295.59,4062.41,Stayed,,
+CUST0343,Male,55,Yes,Texas,2,34,No,No,No phone service,No,Cable,No,No,Yes,No,No,Yes,No,Yes,Two year,No,Bank transfer,101.39,4062.45,98.93,62.41,271.9,4297.83,Stayed,,
+CUST0344,Male,60,Yes,California,1,7,No,No,No,Yes,Cable,No,Yes,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Credit card,98.34,7009.1,130.15,30.47,177.96,7087.38,Churned,Dissatisfaction,Price too high
+CUST0345,Male,39,No,Texas,1,62,Yes,Yes,No phone service,Yes,Cable,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer,77.14,4221.13,38.21,44.45,31.54,4258.91,Churned,Competitor,Network reliability
+CUST0346,Female,60,No,Illinois,0,59,No,No,No,No,DSL,No,Yes,No,Yes,Yes,Yes,Yes,No,One year,No,Electronic check,42.7,494.7,93.12,3.04,155.35,559.97,Churned,Attitude,Don’t know
+CUST0347,Male,22,No,Illinois,0,42,No,Yes,Yes,No,Cable,No,No,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Mailed check,87.24,5063.6,130.88,139.12,102.1,5173.94,Stayed,,
+CUST0348,Male,70,Yes,Illinois,3,61,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,Yes,Month-to-month,No,Credit card,45.75,4655.11,119.98,11.47,242.39,4788.99,Churned,Attitude,Price too high
+CUST0349,Male,50,Yes,New York,2,69,No,No,No,Yes,Cable,Yes,Yes,Yes,No,Yes,Yes,No,No,One year,No,Bank transfer,80.77,6286.15,33.24,36.03,237.7,6526.64,Stayed,,
+CUST0350,Male,57,Yes,New York,0,35,No,No,No,Yes,Cable,Yes,No,Yes,Yes,No,Yes,No,Yes,One year,Yes,Mailed check,47.6,8285.2,6.3,91.05,17.04,8386.99,Churned,Attitude,Moving
+CUST0351,Female,63,Yes,Illinois,2,45,Yes,No,No phone service,No,DSL,Yes,No,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Credit card,106.95,1420.21,139.92,50.66,155.55,1486.5,Churned,Competitor,Moving
+CUST0352,Male,79,Yes,California,0,16,Yes,Yes,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,No,No,Two year,No,Electronic check,85.01,487.61,108.44,31.85,154.0,565.02,Stayed,,
+CUST0353,Male,39,Yes,California,3,53,No,No,No,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Mailed check,82.25,7630.16,117.41,59.33,125.08,7697.16,Stayed,,
+CUST0354,Male,53,Yes,Texas,5,19,No,No,No phone service,Yes,Cable,Yes,No,No,No,No,Yes,No,No,Two year,Yes,Credit card,118.49,3219.41,199.45,138.09,77.51,3235.56,Churned,Dissatisfaction,Attitude of support person
+CUST0355,Female,48,Yes,Texas,1,69,Yes,No,Yes,Yes,Cable,Yes,No,No,No,No,No,No,Yes,One year,Yes,Mailed check,81.55,6574.78,196.47,114.47,125.34,6618.12,Churned,Other,Attitude of support person
+CUST0356,Male,24,No,Florida,3,21,Yes,No,Yes,Yes,DSL,No,Yes,Yes,Yes,No,No,Yes,Yes,One year,No,Electronic check,21.3,648.08,76.82,121.9,206.98,900.14,Stayed,,
+CUST0357,Female,68,Yes,New York,0,64,Yes,No,No phone service,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Credit card,78.18,4918.52,99.96,46.58,124.04,4989.18,Churned,Competitor,Competitor had better devices
+CUST0358,Male,45,Yes,New York,0,34,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Electronic check,54.69,1824.84,86.42,23.71,90.08,1852.21,Stayed,,
+CUST0359,Female,66,Yes,Florida,1,4,Yes,Yes,No phone service,Yes,DSL,No,No,No,Yes,Yes,No,No,Yes,One year,No,Bank transfer,70.82,127.02,150.92,131.54,7.72,115.36,Stayed,,
+CUST0360,Male,29,Yes,California,2,19,No,No,No phone service,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,One year,No,Bank transfer,74.41,2098.5,107.52,95.46,93.72,2180.16,Stayed,,
+CUST0361,Female,25,Yes,California,5,9,No,No,No,Yes,DSL,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer,96.25,5834.58,34.26,69.2,241.48,6111.0,Stayed,,
+CUST0362,Male,72,No,Illinois,1,66,No,No,No,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Credit card,27.58,4970.77,57.24,144.32,171.84,5229.69,Stayed,,
+CUST0363,Female,67,No,California,2,42,No,No,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,No,No,Two year,No,Credit card,32.68,2694.34,195.31,71.61,23.8,2594.44,Stayed,,
+CUST0364,Male,69,Yes,New York,0,51,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer,88.38,5311.73,22.89,53.6,138.58,5481.02,Stayed,,
+CUST0365,Male,23,Yes,Florida,0,2,Yes,Yes,No phone service,No,No,No,Yes,Yes,Yes,No,Yes,No,No,One year,Yes,Mailed check,93.27,7796.52,106.04,26.44,152.86,7869.78,Churned,Price,Price too high
+CUST0366,Male,55,No,California,0,48,Yes,No,No,Yes,DSL,Yes,No,No,Yes,Yes,No,No,No,One year,No,Mailed check,70.55,2271.95,173.18,1.67,1.68,2102.12,Churned,Attitude,Competitor had better devices
+CUST0367,Female,78,No,Florida,3,34,No,No,No,Yes,Cable,No,Yes,Yes,No,No,Yes,No,No,One year,No,Bank transfer,24.6,7201.33,32.21,68.06,116.97,7354.15,Stayed,,
+CUST0368,Female,52,Yes,Florida,3,20,No,Yes,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer,48.25,8262.59,87.37,93.66,213.37,8482.25,Stayed,,
+CUST0369,Female,42,No,California,2,20,Yes,Yes,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,No,No,Month-to-month,No,Credit card,76.51,7740.84,11.72,68.38,149.67,7947.17,Churned,Other,Network reliability
+CUST0370,Male,43,Yes,Illinois,5,51,Yes,Yes,Yes,No,Cable,No,Yes,Yes,No,No,No,Yes,Yes,Two year,No,Electronic check,65.86,3529.02,8.06,0.71,236.71,3758.38,Churned,Attitude,Don’t know
+CUST0371,Male,58,Yes,California,5,18,Yes,No,No,Yes,Cable,Yes,Yes,No,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer,95.42,2206.79,57.34,50.36,289.12,2488.93,Stayed,,
+CUST0372,Female,39,Yes,Florida,3,20,Yes,No,No,No,Fiber optic,Yes,Yes,Yes,Yes,No,No,Yes,Yes,One year,No,Credit card,79.25,5857.82,81.1,47.39,260.87,6084.98,Churned,Price,Moving
+CUST0373,Female,58,No,Florida,2,28,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer,86.73,4017.72,35.07,125.27,296.8,4404.72,Stayed,,
+CUST0374,Female,43,No,Illinois,5,58,Yes,No,No phone service,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,No,Credit card,117.25,8580.69,184.86,70.28,183.25,8649.36,Stayed,,
+CUST0375,Female,79,No,Texas,0,31,Yes,Yes,Yes,Yes,Cable,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,27.7,7486.05,42.55,9.44,94.3,7547.24,Churned,Competitor,Network reliability
+CUST0376,Female,33,No,Illinois,3,36,Yes,Yes,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Yes,No,Two year,No,Credit card,24.0,6908.96,138.27,73.92,47.2,6891.81,Stayed,,
+CUST0377,Male,78,Yes,Illinois,0,52,No,Yes,Yes,No,DSL,No,Yes,No,No,Yes,No,Yes,No,One year,Yes,Bank transfer,53.73,4471.17,196.97,20.0,11.38,4305.58,Churned,Dissatisfaction,Don’t know
+CUST0378,Female,60,No,Texas,2,6,No,Yes,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,No,No,Month-to-month,No,Credit card,114.57,8654.6,4.62,14.88,248.58,8913.44,Stayed,,
+CUST0379,Male,28,No,Texas,2,22,Yes,No,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,No,Yes,Two year,No,Bank transfer,20.07,7595.38,122.43,145.98,283.57,7902.5,Churned,Attitude,Price too high
+CUST0380,Female,39,Yes,New York,1,70,No,Yes,No,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,119.88,3384.91,163.31,19.3,259.36,3500.26,Stayed,,
+CUST0381,Male,31,Yes,New York,2,12,No,Yes,No phone service,No,Cable,Yes,No,No,Yes,Yes,No,Yes,No,Month-to-month,No,Bank transfer,98.08,4739.05,187.63,70.24,178.92,4800.58,Churned,Price,Competitor had better devices
+CUST0382,Male,72,No,Florida,2,67,Yes,Yes,No phone service,No,Cable,No,Yes,Yes,No,Yes,No,Yes,No,Month-to-month,No,Credit card,33.24,4214.39,31.31,148.59,14.4,4346.07,Churned,Dissatisfaction,Lack of features
+CUST0383,Male,48,Yes,California,0,45,Yes,Yes,Yes,No,Fiber optic,Yes,No,No,Yes,No,Yes,No,No,One year,No,Electronic check,119.8,6536.44,28.72,64.25,51.22,6623.19,Stayed,,
+CUST0384,Female,60,Yes,New York,1,17,No,Yes,Yes,No,Cable,Yes,Yes,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card,48.79,2950.3,101.04,72.12,49.61,2970.99,Churned,Other,Price too high
+CUST0385,Male,37,No,New York,0,50,No,Yes,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,85.48,8423.08,88.84,53.96,55.92,8444.12,Churned,Attitude,Lack of features
+CUST0386,Male,72,Yes,Florida,1,3,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer,58.58,1541.42,168.32,44.76,77.34,1495.2,Stayed,,
+CUST0387,Female,27,Yes,New York,5,49,Yes,No,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,No,One year,Yes,Bank transfer,62.98,1016.66,68.32,120.79,2.44,1071.57,Stayed,,
+CUST0388,Female,53,Yes,Florida,1,50,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,84.1,2116.26,12.69,44.02,205.95,2353.54,Stayed,,
+CUST0389,Male,55,No,Illinois,5,20,No,No,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,No,No,Two year,Yes,Mailed check,30.93,4797.2,50.52,145.77,101.25,4993.7,Stayed,,
+CUST0390,Male,54,No,Texas,2,40,Yes,Yes,No phone service,Yes,Cable,No,No,No,Yes,No,Yes,Yes,Yes,Two year,No,Electronic check,24.78,2515.05,157.82,149.66,13.5,2520.39,Churned,Other,Moving
+CUST0391,Female,23,Yes,New York,0,9,Yes,Yes,No phone service,No,Cable,Yes,Yes,Yes,No,Yes,Yes,No,Yes,One year,Yes,Credit card,56.06,7328.45,20.78,45.35,34.65,7387.67,Churned,Competitor,Moving
+CUST0392,Male,33,No,California,3,32,Yes,No,No,No,DSL,No,No,No,Yes,No,Yes,No,Yes,Two year,No,Credit card,86.48,4063.94,153.88,93.77,251.1,4254.93,Stayed,,
+CUST0393,Female,23,No,New York,5,11,Yes,Yes,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer,89.6,687.48,160.01,65.9,43.47,636.84,Stayed,,
+CUST0394,Female,27,Yes,Florida,4,65,Yes,No,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,No,Yes,Two year,Yes,Bank transfer,108.87,2852.4,168.41,119.35,95.9,2899.24,Stayed,,
+CUST0395,Female,58,No,California,3,4,Yes,Yes,No,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,Yes,No,One year,Yes,Credit card,55.0,3616.44,71.94,49.04,233.7,3827.24,Stayed,,
+CUST0396,Female,27,Yes,New York,3,65,No,No,No phone service,No,DSL,No,Yes,Yes,No,Yes,No,Yes,Yes,Two year,No,Credit card,29.8,7305.36,72.78,35.71,50.47,7318.76,Stayed,,
+CUST0397,Male,64,No,California,5,20,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,Two year,Yes,Mailed check,90.15,577.22,45.61,17.61,183.19,732.41,Stayed,,
+CUST0398,Male,71,No,California,4,24,No,No,No phone service,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,29.9,111.02,86.91,72.27,277.92,374.3,Stayed,,
+CUST0399,Female,56,Yes,New York,3,71,No,Yes,No,Yes,DSL,No,Yes,No,Yes,Yes,No,Yes,Yes,Two year,No,Mailed check,99.75,7933.63,79.85,11.94,35.73,7901.45,Stayed,,
+CUST0400,Female,47,Yes,Illinois,0,24,No,Yes,No,No,Fiber optic,No,Yes,No,Yes,Yes,No,No,No,Two year,Yes,Electronic check,20.71,7113.35,118.48,123.61,112.52,7231.0,Churned,Other,Don’t know
+CUST0401,Female,31,No,Florida,5,57,No,Yes,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,Yes,No,Month-to-month,Yes,Credit card,63.5,6385.54,153.84,73.22,35.1,6340.02,Churned,Attitude,Lack of features
+CUST0402,Male,31,Yes,California,3,2,Yes,Yes,No,No,Cable,No,No,No,Yes,Yes,No,No,Yes,Two year,No,Credit card,109.06,2851.26,190.48,71.69,124.99,2857.46,Churned,Attitude,Lack of features
+CUST0403,Male,62,Yes,Florida,4,8,Yes,Yes,No,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,101.24,2937.88,174.8,135.32,250.24,3148.64,Churned,Attitude,Competitor had better devices
+CUST0404,Male,33,Yes,California,4,66,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,One year,No,Mailed check,88.11,4629.12,85.62,105.54,262.55,4911.59,Churned,Other,Price too high
+CUST0405,Female,62,Yes,New York,0,13,Yes,No,No,Yes,DSL,No,No,No,Yes,Yes,Yes,No,Yes,One year,No,Credit card,102.78,895.98,37.97,29.45,93.22,980.68,Churned,Price,Moving
+CUST0406,Female,22,Yes,Florida,1,51,Yes,Yes,No,Yes,Cable,Yes,Yes,No,Yes,Yes,No,No,No,Two year,Yes,Mailed check,31.07,3611.42,75.18,123.29,213.39,3872.92,Stayed,,
+CUST0407,Male,22,No,Illinois,4,35,Yes,No,No phone service,No,Cable,No,Yes,No,Yes,Yes,No,No,Yes,One year,Yes,Electronic check,49.49,5526.29,179.67,149.61,111.82,5608.05,Stayed,,
+CUST0408,Female,52,Yes,California,2,19,No,No,No,No,Cable,No,No,Yes,No,No,Yes,Yes,No,One year,Yes,Credit card,40.24,4310.96,39.55,128.63,89.06,4489.1,Stayed,,
+CUST0409,Female,38,Yes,Illinois,1,55,No,No,No phone service,Yes,Cable,Yes,No,No,No,Yes,Yes,Yes,No,Two year,Yes,Credit card,64.64,1929.7,26.4,64.67,199.73,2167.7,Churned,Dissatisfaction,Network reliability
+CUST0410,Female,62,Yes,Florida,2,33,No,No,No phone service,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Yes,No,Two year,Yes,Credit card,42.78,5342.47,117.9,145.75,38.34,5408.66,Stayed,,
+CUST0411,Female,36,No,California,2,60,No,Yes,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,Yes,No,Two year,No,Mailed check,92.55,2403.2,169.6,122.56,185.32,2541.48,Stayed,,
+CUST0412,Male,19,Yes,Texas,2,27,No,No,No,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Two year,No,Credit card,42.22,5008.15,53.91,61.45,78.5,5094.19,Churned,Other,Moving
+CUST0413,Female,50,Yes,Texas,0,68,No,Yes,No phone service,No,Cable,Yes,Yes,Yes,Yes,Yes,No,No,No,Month-to-month,No,Credit card,92.15,1976.43,146.02,41.96,41.38,1913.75,Churned,Price,Don’t know
+CUST0414,Female,70,Yes,Florida,4,30,Yes,Yes,Yes,No,DSL,No,Yes,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer,96.67,963.34,63.34,132.75,169.37,1202.12,Stayed,,
+CUST0415,Female,50,Yes,Illinois,0,30,No,Yes,No phone service,No,Fiber optic,Yes,Yes,Yes,No,No,No,Yes,Yes,Two year,No,Credit card,47.62,8548.62,170.18,113.51,270.64,8762.59,Churned,Competitor,Price too high
+CUST0416,Male,54,Yes,Florida,4,9,No,Yes,No phone service,Yes,Cable,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,No,Bank transfer,87.89,7099.11,3.75,24.08,77.04,7196.48,Stayed,,
+CUST0417,Male,24,Yes,Florida,1,17,Yes,Yes,No phone service,No,Fiber optic,Yes,Yes,No,No,Yes,No,Yes,No,One year,No,Credit card,87.26,4271.86,87.08,21.79,137.25,4343.82,Churned,Dissatisfaction,Moving
+CUST0418,Male,48,No,Florida,4,44,No,No,No,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,No,Yes,Two year,Yes,Mailed check,106.01,735.11,151.3,141.38,263.31,988.5,Churned,Price,Lack of features
+CUST0419,Male,45,Yes,Illinois,2,62,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,73.0,1238.16,9.42,129.87,128.18,1486.79,Stayed,,
+CUST0420,Male,30,Yes,California,3,60,No,Yes,Yes,Yes,Cable,No,Yes,Yes,Yes,No,Yes,No,Yes,Two year,No,Credit card,44.47,8930.25,126.03,132.12,153.39,9089.73,Churned,Attitude,Lack of features
+CUST0421,Male,59,No,New York,0,40,Yes,Yes,Yes,No,DSL,No,Yes,Yes,Yes,Yes,No,No,No,Month-to-month,No,Credit card,115.84,8136.56,18.69,119.9,2.57,8240.34,Stayed,,
+CUST0422,Male,67,No,Illinois,5,31,No,Yes,No phone service,No,Cable,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Credit card,94.2,4232.12,79.8,33.48,130.58,4316.38,Stayed,,
+CUST0423,Male,46,Yes,Illinois,5,70,Yes,Yes,No phone service,No,Fiber optic,No,No,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,118.36,4470.31,123.49,8.81,140.59,4496.22,Stayed,,
+CUST0424,Female,73,Yes,Texas,4,17,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,One year,No,Credit card,119.13,7311.41,39.59,77.1,149.62,7498.54,Churned,Price,Network reliability
+CUST0425,Female,58,No,Texas,1,31,No,Yes,No phone service,No,DSL,Yes,No,No,Yes,Yes,No,No,Yes,Two year,No,Credit card,63.26,6361.09,91.38,127.41,271.6,6668.72,Stayed,,
+CUST0426,Female,34,Yes,California,0,53,No,Yes,No phone service,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,One year,Yes,Mailed check,70.15,810.36,15.49,29.81,81.91,906.59,Churned,Attitude,Lack of features
+CUST0427,Male,26,No,New York,3,35,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,One year,No,Electronic check,111.27,7725.6,107.96,135.06,201.13,7953.83,Stayed,,
+CUST0428,Male,70,No,Illinois,0,59,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,One year,Yes,Mailed check,87.33,486.9,158.71,95.47,152.93,576.59,Churned,Competitor,Lack of features
+CUST0429,Female,52,No,California,0,26,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,Two year,Yes,Bank transfer,118.58,8284.5,51.99,57.0,9.71,8299.22,Churned,Other,Don’t know
+CUST0430,Male,32,No,California,0,39,No,No,No phone service,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,No,No,Two year,No,Electronic check,67.88,2462.53,145.37,59.24,81.55,2457.95,Stayed,,
+CUST0431,Female,20,No,Illinois,2,51,Yes,Yes,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Yes,No,One year,Yes,Mailed check,93.97,4676.0,31.2,64.68,98.2,4807.68,Stayed,,
+CUST0432,Female,79,No,Florida,5,31,Yes,No,No phone service,No,Fiber optic,No,Yes,No,Yes,No,No,Yes,Yes,Two year,No,Credit card,75.34,5826.34,152.12,121.2,234.45,6029.87,Churned,Other,Attitude of support person
+CUST0433,Female,36,No,California,4,1,Yes,No,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer,21.96,5457.08,47.43,118.55,88.96,5617.16,Stayed,,
+CUST0434,Female,57,No,New York,3,63,Yes,No,No,No,DSL,No,Yes,No,Yes,Yes,Yes,Yes,No,One year,No,Bank transfer,78.82,7129.71,137.35,119.8,174.01,7286.17,Stayed,,
+CUST0435,Female,77,No,California,1,72,No,Yes,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,No,No,One year,Yes,Bank transfer,50.03,8491.17,119.15,35.04,183.51,8590.57,Stayed,,
+CUST0436,Female,29,No,Texas,3,4,Yes,Yes,Yes,No,Cable,No,No,Yes,No,No,Yes,No,No,Two year,No,Electronic check,73.86,8789.99,55.5,34.98,90.23,8859.7,Churned,Price,Competitor had better devices
+CUST0437,Female,35,No,Florida,5,20,No,Yes,No phone service,No,DSL,Yes,No,No,No,Yes,Yes,No,Yes,One year,Yes,Bank transfer,80.57,7069.21,64.46,120.34,2.31,7127.4,Stayed,,
+CUST0438,Female,57,No,Texas,4,43,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Two year,No,Electronic check,29.65,3300.45,2.49,139.07,142.84,3579.87,Stayed,,
+CUST0439,Male,22,No,California,0,54,Yes,Yes,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Electronic check,40.63,6000.8,196.88,89.46,54.83,5948.21,Stayed,,
+CUST0440,Female,64,Yes,Florida,5,55,Yes,Yes,No,No,DSL,No,No,Yes,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,85.98,2344.49,51.6,33.79,170.74,2497.42,Stayed,,
+CUST0441,Male,18,Yes,Florida,1,39,No,Yes,No phone service,No,DSL,No,Yes,Yes,No,Yes,Yes,No,No,Two year,Yes,Credit card,101.02,1850.36,159.48,140.0,143.43,1974.31,Churned,Other,Attitude of support person
+CUST0442,Female,39,Yes,Texas,3,70,No,No,Yes,Yes,Cable,No,Yes,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Mailed check,68.74,7754.74,28.37,148.28,270.12,8144.77,Stayed,,
+CUST0443,Male,71,Yes,Texas,5,57,No,Yes,No,No,DSL,Yes,No,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Credit card,71.44,1219.29,88.8,79.41,71.15,1281.05,Churned,Dissatisfaction,Don’t know
+CUST0444,Female,23,No,Texas,2,21,No,No,No phone service,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,No,Yes,Two year,No,Mailed check,54.85,6125.15,81.54,2.92,114.55,6161.08,Churned,Dissatisfaction,Lack of features
+CUST0445,Male,26,No,California,3,15,No,Yes,No phone service,Yes,DSL,Yes,Yes,No,No,Yes,Yes,No,Yes,Two year,No,Bank transfer,37.76,3285.27,75.44,23.73,207.2,3440.76,Churned,Attitude,Network reliability
+CUST0446,Male,70,Yes,Texas,2,35,No,Yes,No,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,No,No,One year,No,Electronic check,58.21,1699.59,76.04,144.54,200.25,1968.34,Stayed,,
+CUST0447,Female,47,Yes,Florida,0,20,No,Yes,No,Yes,Cable,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Two year,No,Credit card,58.86,4780.18,181.54,34.57,67.83,4701.04,Stayed,,
+CUST0448,Female,41,No,California,5,16,No,No,No,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,No,No,Month-to-month,No,Electronic check,59.22,5604.18,155.43,108.53,231.73,5789.01,Churned,Dissatisfaction,Competitor had better devices
+CUST0449,Male,20,No,Florida,3,63,Yes,No,No,Yes,DSL,No,No,Yes,No,No,Yes,Yes,No,Two year,No,Mailed check,104.98,6409.75,4.92,124.28,97.29,6626.4,Churned,Price,Competitor had better devices
+CUST0450,Female,63,Yes,California,5,8,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Credit card,82.72,1346.0,27.32,126.92,13.65,1459.25,Stayed,,
+CUST0451,Female,75,Yes,Illinois,5,4,No,No,No,Yes,Cable,No,Yes,No,Yes,No,Yes,Yes,Yes,Two year,No,Mailed check,45.92,5308.81,165.94,114.74,132.94,5390.55,Stayed,,
+CUST0452,Male,76,No,California,0,7,Yes,Yes,No phone service,No,Fiber optic,No,Yes,Yes,No,No,Yes,No,Yes,Two year,No,Bank transfer,85.46,6558.0,66.83,5.92,147.86,6644.95,Stayed,,
+CUST0453,Female,56,Yes,Illinois,4,14,No,No,No phone service,No,DSL,No,No,No,Yes,No,No,Yes,No,Two year,No,Mailed check,111.15,2423.93,30.28,77.95,292.25,2763.85,Stayed,,
+CUST0454,Male,67,No,Illinois,3,34,Yes,Yes,Yes,No,Cable,No,No,No,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,96.86,8927.24,175.09,94.02,279.98,9126.15,Churned,Price,Price too high
+CUST0455,Male,66,Yes,New York,3,39,No,Yes,No,No,DSL,No,Yes,No,Yes,No,Yes,No,Yes,Two year,Yes,Mailed check,90.11,291.06,49.97,106.33,240.14,587.56,Churned,Price,Competitor had better devices
+CUST0456,Female,63,Yes,Florida,4,59,Yes,No,No phone service,Yes,DSL,No,Yes,Yes,No,Yes,No,Yes,Yes,One year,No,Electronic check,21.98,574.2,190.28,2.03,265.06,651.01,Stayed,,
+CUST0457,Female,26,No,Illinois,0,14,No,No,No phone service,No,Fiber optic,Yes,Yes,No,Yes,No,No,No,No,Month-to-month,No,Credit card,103.34,5589.74,119.87,0.19,30.36,5500.42,Stayed,,
+CUST0458,Female,77,No,Florida,1,35,Yes,No,No,No,DSL,No,Yes,No,Yes,No,No,Yes,Yes,One year,No,Credit card,58.61,6872.48,129.05,24.39,281.81,7049.63,Churned,Other,Attitude of support person
+CUST0459,Male,31,No,Florida,5,1,No,Yes,No phone service,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,42.76,6910.68,29.96,35.34,1.5,6917.56,Stayed,,
+CUST0460,Female,55,No,California,5,64,Yes,No,No,Yes,DSL,No,Yes,No,Yes,No,Yes,Yes,No,Two year,Yes,Electronic check,23.14,5007.71,125.21,114.92,56.03,5053.45,Churned,Attitude,Network reliability
+CUST0461,Female,29,No,Texas,1,43,No,No,No phone service,Yes,DSL,Yes,Yes,Yes,No,No,No,No,No,Month-to-month,No,Credit card,101.22,4179.55,30.5,25.64,279.07,4453.76,Stayed,,
+CUST0462,Female,40,Yes,Texas,3,2,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,One year,No,Electronic check,33.0,8202.0,176.34,104.59,138.47,8268.72,Stayed,,
+CUST0463,Female,46,Yes,Texas,5,9,No,Yes,Yes,No,Cable,No,No,No,No,Yes,Yes,No,Yes,One year,No,Bank transfer,97.26,2950.37,92.71,127.61,12.67,2997.94,Stayed,,
+CUST0464,Female,50,No,Texas,1,15,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,One year,Yes,Electronic check,85.06,4491.2,28.84,36.78,89.12,4588.26,Stayed,,
+CUST0465,Male,75,No,Florida,5,39,No,Yes,Yes,Yes,Cable,No,Yes,Yes,Yes,No,Yes,No,Yes,Two year,Yes,Credit card,22.71,1889.28,14.83,38.65,163.6,2076.7,Stayed,,
+CUST0466,Male,72,No,Texas,1,41,No,No,Yes,Yes,Cable,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Mailed check,105.91,273.74,181.5,95.6,295.24,483.08,Churned,Attitude,Attitude of support person
+CUST0467,Male,28,No,Texas,3,32,No,Yes,No,No,DSL,No,No,No,Yes,No,Yes,No,Yes,Month-to-month,No,Credit card,100.11,4985.87,23.38,103.16,256.15,5321.8,Churned,Dissatisfaction,Lack of features
+CUST0468,Male,63,No,Texas,0,55,Yes,No,No phone service,No,DSL,No,Yes,No,No,Yes,No,No,Yes,One year,Yes,Bank transfer,88.1,5010.81,186.69,41.67,38.47,4904.26,Stayed,,
+CUST0469,Female,53,Yes,New York,4,7,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Two year,Yes,Electronic check,29.44,6537.7,102.97,120.27,209.08,6764.08,Stayed,,
+CUST0470,Male,58,No,California,1,11,No,Yes,No,No,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card,98.26,119.36,67.62,139.33,133.23,324.3,Churned,Other,Attitude of support person
+CUST0471,Male,26,Yes,California,1,19,Yes,Yes,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Yes,Yes,One year,No,Mailed check,65.8,8491.49,190.67,8.21,154.18,8463.21,Churned,Competitor,Lack of features
+CUST0472,Male,61,No,New York,4,52,No,No,No phone service,No,Cable,Yes,No,Yes,Yes,No,No,No,Yes,Two year,Yes,Credit card,35.94,5844.95,62.71,138.77,203.97,6124.98,Stayed,,
+CUST0473,Female,35,No,New York,3,32,No,No,No,No,Cable,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-month,No,Bank transfer,71.45,6790.22,125.9,68.42,38.03,6770.77,Stayed,,
+CUST0474,Female,49,No,Illinois,2,36,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,109.83,8388.07,9.31,77.63,258.18,8714.57,Stayed,,
+CUST0475,Female,70,Yes,California,4,40,No,Yes,No phone service,Yes,Fiber optic,No,No,No,Yes,No,No,No,No,One year,No,Credit card,43.01,8029.26,50.03,107.71,205.86,8292.8,Churned,Other,Competitor had better devices
+CUST0476,Male,79,Yes,Florida,0,41,Yes,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,One year,No,Bank transfer,24.94,2913.9,83.14,78.83,190.7,3100.29,Stayed,,
+CUST0477,Female,65,No,New York,3,41,Yes,Yes,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card,106.86,4096.12,70.43,87.57,271.55,4384.81,Stayed,,
+CUST0478,Male,34,Yes,California,1,49,Yes,No,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Mailed check,98.08,579.71,104.55,29.98,202.82,707.96,Churned,Attitude,Moving
+CUST0479,Female,61,No,California,3,2,Yes,No,No phone service,No,DSL,No,Yes,No,Yes,Yes,Yes,No,No,Two year,Yes,Mailed check,77.56,953.38,55.03,101.07,198.46,1197.88,Stayed,,
+CUST0480,Male,56,No,Florida,4,62,No,Yes,No,No,Cable,No,No,Yes,Yes,No,Yes,No,No,Two year,Yes,Electronic check,105.04,2047.98,123.48,143.91,180.76,2249.17,Churned,Competitor,Lack of features
+CUST0481,Female,19,Yes,New York,5,43,Yes,No,No phone service,Yes,Cable,Yes,No,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card,100.56,8674.48,14.51,73.59,2.66,8736.22,Stayed,,
+CUST0482,Male,38,No,California,3,13,Yes,No,No,Yes,DSL,No,Yes,Yes,No,Yes,No,No,No,One year,Yes,Credit card,71.92,7254.59,198.77,69.56,163.81,7289.19,Stayed,,
+CUST0483,Female,61,Yes,Illinois,1,14,Yes,Yes,No phone service,No,Cable,No,No,No,Yes,No,Yes,No,Yes,One year,Yes,Mailed check,48.43,6840.89,122.53,29.06,66.39,6813.81,Stayed,,
+CUST0484,Female,41,Yes,Texas,1,71,Yes,No,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Yes,No,Two year,No,Bank transfer,44.06,5402.72,34.95,10.33,113.58,5491.68,Stayed,,
+CUST0485,Female,49,Yes,Texas,3,4,No,No,Yes,No,DSL,Yes,Yes,No,Yes,No,No,No,No,Two year,No,Bank transfer,22.23,8905.86,28.58,148.73,18.52,9044.53,Stayed,,
+CUST0486,Female,48,No,Florida,0,61,Yes,No,No phone service,Yes,Fiber optic,Yes,No,Yes,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,87.41,7769.75,114.63,127.0,39.5,7821.62,Stayed,,
+CUST0487,Female,23,Yes,Florida,4,21,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Two year,No,Electronic check,81.54,8147.88,125.41,11.63,265.68,8299.78,Churned,Competitor,Price too high
+CUST0488,Female,45,No,Florida,0,2,Yes,Yes,Yes,No,Fiber optic,No,No,No,Yes,No,No,Yes,Yes,Two year,Yes,Mailed check,68.25,3907.32,12.99,49.6,180.56,4124.49,Churned,Dissatisfaction,Moving
+CUST0489,Female,27,Yes,New York,5,3,No,Yes,No,No,Cable,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card,46.94,8276.72,91.23,104.54,179.95,8469.98,Stayed,,
+CUST0490,Male,68,Yes,Texas,0,37,Yes,Yes,No,No,DSL,No,No,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Mailed check,108.86,4257.9,132.62,42.19,113.53,4281.0,Churned,Attitude,Attitude of support person
+CUST0491,Male,57,Yes,California,0,52,No,No,Yes,No,Cable,Yes,No,No,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,89.62,8833.57,83.94,61.11,42.9,8853.64,Stayed,,
+CUST0492,Male,72,Yes,Texas,5,16,No,Yes,No phone service,Yes,Cable,Yes,Yes,No,No,No,No,No,Yes,Two year,Yes,Mailed check,76.32,5944.3,75.96,42.16,10.3,5920.8,Stayed,,
+CUST0493,Female,68,Yes,New York,5,37,Yes,Yes,Yes,No,Cable,No,Yes,Yes,Yes,Yes,Yes,No,No,One year,Yes,Bank transfer,75.7,7743.5,119.06,6.86,138.53,7769.83,Churned,Competitor,Competitor had better devices
+CUST0494,Male,61,Yes,Illinois,5,18,Yes,Yes,No,No,Cable,No,No,Yes,Yes,Yes,No,No,Yes,One year,No,Mailed check,71.43,2008.85,154.76,127.98,267.56,2249.63,Churned,Attitude,Network reliability
+CUST0495,Male,69,No,Illinois,1,69,No,No,No,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer,94.17,2535.8,1.9,29.91,275.09,2838.9,Stayed,,
+CUST0496,Female,36,No,Florida,0,44,No,Yes,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,110.63,4436.6,6.09,15.14,129.64,4575.29,Churned,Other,Attitude of support person
+CUST0497,Female,31,Yes,Texas,3,21,Yes,Yes,Yes,Yes,DSL,No,Yes,Yes,Yes,No,No,Yes,Yes,Month-to-month,No,Bank transfer,77.24,3209.85,52.82,29.89,288.45,3475.37,Stayed,,
+CUST0498,Male,36,No,New York,2,71,No,Yes,No,Yes,Fiber optic,Yes,No,No,No,Yes,No,No,No,One year,No,Electronic check,57.02,6063.6,135.01,29.58,105.66,6063.83,Stayed,,
+CUST0499,Male,76,No,New York,5,62,No,No,No,No,DSL,No,No,Yes,No,Yes,No,No,No,Two year,No,Credit card,93.99,3477.21,92.09,85.35,197.55,3668.02,Stayed,,
+CUST0500,Male,63,Yes,California,1,36,Yes,No,No phone service,No,No,No,Yes,No,No,Yes,No,No,Yes,Two year,No,Electronic check,77.99,4208.41,98.73,10.88,108.76,4229.32,Stayed,,
