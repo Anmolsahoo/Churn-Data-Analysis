@@ -8,27 +8,27 @@ The project uses a dataset of customer information, including demographics, serv
 
 The main objectives of this project are:
 
-To explore and understand the factors that influence customer churn.
+  -To explore and understand the factors that influence customer churn.
 
-To build predictive models that can identify customers at high risk of leaving.
+  -To build predictive models that can identify customers at high risk of leaving.
 
-To create interactive visualizations in Power BI for monitoring churn patterns.
+  -To create interactive visualizations in Power BI for monitoring churn patterns.
 
-To provide recommendations for reducing churn and improving customer retention strategies.
+  -To provide recommendations for reducing churn and improving customer retention strategies.
 
 <h1>Python Source File</h1>
 
 The Python source file (churn analysis.ipynb) contains the core data analysis and machine learning steps. Key tasks include:
 
-Data Preprocessing: Cleaning missing values, encoding categorical variables, and normalizing numerical values.
+  -Data Preprocessing: Cleaning missing values, encoding categorical variables, and normalizing numerical values.
 
-Exploratory Data Analysis (EDA): Visualizing churn distribution, customer tenure, service usage, and billing patterns.
+  -Exploratory Data Analysis (EDA): Visualizing churn distribution, customer tenure, service usage, and billing patterns.
 
-Feature Engineering: Creating useful variables that improve model performance.
+  -Feature Engineering: Creating useful variables that improve model performance.
 
-Model Building: Training machine learning models such as Logistic Regression, Random Forest, and Decision Trees to predict churn.
+  -Model Building: Training machine learning models such as Logistic Regression, Random Forest, and Decision Trees to predict churn.
 
-Model Evaluation: Using accuracy, precision, recall, and F1-score to measure performance.
+  -Model Evaluation: Using accuracy, precision, recall, and F1-score to measure performance.
 
 The Python workflow ensures that raw data is transformed into meaningful insights and predictive capabilities.
 
@@ -36,13 +36,13 @@ The Python workflow ensures that raw data is transformed into meaningful insight
 
 The Power BI file (churn_analysis.pbix) presents interactive dashboards that make the analysis more business-friendly. The dashboards include:
 
-Customer Overview: Distribution by gender, contract type, and payment method.
+  -Customer Overview: Distribution by gender, contract type, and payment method.
 
-Churn Analysis: Percentage of customers who churned vs. retained.
+  -Churn Analysis: Percentage of customers who churned vs. retained.
 
-Key Drivers of Churn: Impact of tenure, monthly charges, and services subscribed.
+  -Key Drivers of Churn: Impact of tenure, monthly charges, and services subscribed.
 
-Predictive Insights: Highlighting high-risk customers for proactive retention actions.
+  -Predictive Insights: Highlighting high-risk customers for proactive retention actions.
 
 Power BI helps stakeholders explore churn data visually and make data-driven decisions without needing technical expertise.
 
@@ -50,13 +50,13 @@ Power BI helps stakeholders explore churn data visually and make data-driven dec
 
 From the analysis, several key findings emerged:
 
-Customers with month-to-month contracts churned at a much higher rate compared to those with yearly contracts.
+  -Customers with month-to-month contracts churned at a much higher rate compared to those with yearly contracts.
 
-High monthly charges were strongly linked to increased churn probability.
+  -High monthly charges were strongly linked to increased churn probability.
 
-Customers using fewer services or lacking tech support were more likely to leave.
+  -Customers using fewer services or lacking tech support were more likely to leave.
 
-Predictive models achieved good accuracy, with Random Forest performing the best in identifying potential churners.
+  -Predictive models achieved good accuracy, with Random Forest performing the best in identifying potential churners.
 
 <h1>Conclusion</h1>
 
